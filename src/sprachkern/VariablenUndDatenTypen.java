@@ -63,5 +63,39 @@ public class VariablenUndDatenTypen {
         ganzzahl = 123_456_789; // "Kosmetik", z.B. als Tausendertrennzeichen
         System.out.println(ganzzahl);
 
+        lang = 1888845548649876548L; // L oder l als Suffix für long;
+
+        beit = 126;
+        beit++;
+        beit++;
+        System.out.println(beit);
+
+        kurz = 30000;
+        kurz += 5000;
+        System.out.println(kurz);
+
+        /*
+            Gleit-/Fließkommazahlen
+        */
+
+        // einfache Genauigkeit (single-precision, etwa 7 Stellen)
+        // +-3.4E38, 32 Bit
+        float flies;
+
+        // doppelte Genauigkeit (double-precision, etwa 15 Stellen)
+        // +-1.7E308, 64 Bit
+        double doppelt;
+
+        // literale
+        doppelt = 123.456;
+        doppelt = -123.456;
+        doppelt = 0; //int-literal! wird automatischen konvertiert!
+        doppelt = 0.0;
+        doppelt = .0; // Code smell!
+        doppelt =  1e3; // 1*10³ = 1000
+        doppelt = 1e-3; // 1*10³ = 0.001
+        doppelt = 123.456789123456789;
+        doppelt = 12345678912345.6789123456789123456789;
+        System.out.println(doppelt);
     }
 }

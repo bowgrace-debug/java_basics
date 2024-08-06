@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sprachkern/Kommentare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sprachkern/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sprachkern/Kommentare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/Kommentare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/java_projects/java_basic/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722929692862</updated>
       <workItem from="1722929694162" duration="2000" />
-      <workItem from="1722929853333" duration="3343000" />
+      <workItem from="1722929853333" duration="4370000" />
     </task>
     <servers />
   </component>
@@ -85,5 +86,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

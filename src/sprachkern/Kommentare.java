@@ -17,7 +17,6 @@ public class Kommentare {
         (darf nicht verschachtelt werden)
         */
 
-
         // einzeiliger Kommentar (bis Ende der Zeile)
 
         /**

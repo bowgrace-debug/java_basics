@@ -2,6 +2,6 @@ package sprachkern;
 
 public class HelloWorld {
     public static void main(String[]args){
-        System.out.println("Hello, Nico!");
+        System.out.println("Hello, World!");
     }
 }

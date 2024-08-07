@@ -2,11 +2,19 @@ package sprachkern;
 
 /**
  * Variablen Und Datentypen
- *      -Syntax:
+ *      - Syntax:
  *              Datentypen bezeichner;
  *              Type Identifier;
- *     -Bezeichner (Identifier);
- *
+ *     - Bezeichner (Identifier);
+ *          -Syntax
+ *              - UTF-16
+ *              - kann beliebig lang sein
+ *              - beginnt mit Buchstabe, $ oder _
+ *              - darf nicht mit einer Ziffer beginnen
+ *              - case-sensitive
+ *              - muss eindeutig sein
+ *              - kein reserviertes Wort
+ *              - und nicht true, false und null
  *          - Konventionen
  *              - nur A-Z, a-z, _, 0-9
  *              - sprechende Namen
@@ -101,10 +109,30 @@ public class VariablenUndDatenTypen {
         /*
         Zeichen (Character)
         speichert genau ein Zeichen!
+        16 Bit, Unicode UTF-16
         */
 
+        // Literale
         char zeichen;
-        zeichen = 'A';
+        zeichen = 'A'; // = 65
+        zeichen = 66; // = 'B'
+        zeichen = 0x2741; // = ❁
+        zeichen = '\''; // maskieren (Escape Sequence)
+        zeichen = '\\'; // maskieren (Escape Sequence)
+        zeichen = '\n'; // Steuerzeichen (Zeilenumbruch)
+        zeichen = '\t'; // Steuerzeichen (Tab/Tabulator)
+        zeichen = '\u2628';
         System.out.println(zeichen);
+
+        /*
+            Boolean (Wahrheitswerte)
+        */
+
+        /*
+            Konstante
+        */
+
+        final double pi = 3.14159;
+        final int EINE_KONSTANTE = 5;
     }
 }

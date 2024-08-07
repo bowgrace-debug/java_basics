@@ -13,7 +13,7 @@ public class sekunden {
     public static void main(String[] args) {
 
         // Eingabe
-        double sekunden = 120.0;
+        double sekunden = 240.0;
 
         // Verarbeitung
         double minuten = 60.0;

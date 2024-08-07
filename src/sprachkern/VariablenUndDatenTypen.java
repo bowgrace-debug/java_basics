@@ -137,5 +137,11 @@ public class VariablenUndDatenTypen {
 
         final double pi = 3.14159;
         final int EINE_KONSTANTE = 5;
+
+        /*
+                Das Präfix wird immer vor dem Wortstamm eines Wortes platziert.
+                Du nennst es deshalb auch Vorsilbe.
+                Das Suffix dagegen wird immer nach dem Wortstamm eines Wortes platziert.
+        */
     }
 }

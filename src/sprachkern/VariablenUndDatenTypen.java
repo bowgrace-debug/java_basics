@@ -1,7 +1,7 @@
 package sprachkern;
 
 /**
- * Variablen Und Datentypen
+ * Variablen und Datentypen
  *      - Syntax:
  *              Datentypen bezeichner;
  *              Type Identifier;
@@ -65,7 +65,7 @@ public class VariablenUndDatenTypen {
         // literale
         ganzzahl = 24;
         ganzzahl = -24;
-        ganzzahl = 0421; // 0 = Präfix für oktal
+        ganzzahl = 0421; // 0 = Präfix für octal
         ganzzahl = 0xaffe; // 0x = Präfix für hexadezimalzahl
         ganzzahl = 0b11111111; // 0b = Präfix für binär
         ganzzahl = 123_456_789; // "Kosmetik", z.B. als Tausendertrennzeichen

@@ -97,5 +97,14 @@ public class VariablenUndDatenTypen {
         doppelt = 123.456789123456789;
         doppelt = 12345678912345.6789123456789123456789;
         System.out.println(doppelt);
+
+        /*
+        Zeichen (Character)
+        speichert genau ein Zeichen!
+        */
+
+        char zeichen;
+        zeichen = 'A';
+        System.out.println(zeichen);
     }
 }

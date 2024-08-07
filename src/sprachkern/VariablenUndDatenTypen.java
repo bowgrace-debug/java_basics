@@ -106,6 +106,9 @@ public class VariablenUndDatenTypen {
         doppelt = 12345678912345.6789123456789123456789;
         System.out.println(doppelt);
 
+//        flies = 12.456; // Fehler: Required type: float, Provided: double
+        flies = 12.456F; // F oder f als Suffix für float
+
         /*
         Zeichen (Character)
         speichert genau ein Zeichen!

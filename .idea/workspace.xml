@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A00_DmToEuro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprachkern/Arithmetik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/sequenzen/kraftstoffverbrauch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/sequenzen/rechteck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/sequenzen/sekunden.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sprachkern/Ausgabe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/Ausgabe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sprachkern/VariablenUndDatenTypen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/VariablenUndDatenTypen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A00_DmToEuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A00_DmToEuro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <workItem from="1722957258108" duration="44000" />
       <workItem from="1723012683537" duration="80000" />
       <workItem from="1723013735941" duration="3344000" />
-      <workItem from="1723017229088" duration="8246000" />
+      <workItem from="1723017229088" duration="12607000" />
     </task>
     <servers />
   </component>

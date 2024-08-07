@@ -2,7 +2,7 @@ package aufgaben.sequenzen;
 
 /**
  * kraftstoffverbrauch
- *
+ * <p>
  * Erstelle ein Programm, welches anhand der gefahrenen Kilometer und des dafür
  * verbrauchten Kraftstoffs, den durchschnittlichen Verbrauch pro 100 Km rechnet
  * und ausgibt
@@ -20,6 +20,6 @@ public class kraftstoffverbrauch {
          final double liter = 36.74;
 
         // Ausgabe
-        System.out.printf("%.2f  Liter auf 100 Kilometer \n",(liter / kilometer * 100));
+        System.out.printf("%.2f  Liter auf 100 Kilometer verbraucht: \n",(liter / kilometer * 100));
     }
 }

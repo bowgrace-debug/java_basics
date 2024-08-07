@@ -2,7 +2,7 @@ package aufgaben.sequenzen;
 
 /**
  * sekunden
- *
+ * <p>
  * Schreibe ein Programm, welches eine beliebige Anzahl
  * von Sekunden in minuten umrechnet und ausgibt.
  *

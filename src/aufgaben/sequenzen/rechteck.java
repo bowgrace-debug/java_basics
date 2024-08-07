@@ -2,7 +2,7 @@ package aufgaben.sequenzen;
 
 /**
  * rechteck
- *
+ * <p>
  * Schreibe ein Programm, welches anhand der Seitenlänge a und b
  * den Umfang und die Fläche eines Rechtecks berechnet und ausgibt.
  *

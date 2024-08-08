@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sprachkern/Mathe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprachkern/TypenKonvertierung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/sequenzen/din_a4seite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/sequenzen/monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/sequenzen/olivenoeltank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Mathe.executor": "Run",
+    "Application.Monitor.executor": "Run",
     "Application.TypenKonvertierung.executor": "Run",
+    "Application.din_a4seite.executor": "Run",
+    "Application.olivenoeltank.executor": "Run",
     "Application.sekunden.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -61,7 +65,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Mathe">
+  <component name="RunManager" selected="Application.olivenoeltank">
     <configuration name="Mathe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sprachkern.Mathe" />
       <module name="java_basic" />
@@ -88,8 +92,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sekunden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.sequenzen.sekunden" />
+    <configuration name="din_a4seite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.sequenzen.din_a4seite" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.sequenzen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="monitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.sequenzen.monitor" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.sequenzen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="olivenoeltank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.sequenzen.olivenoeltank" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
@@ -103,9 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.olivenoeltank" />
+        <item itemvalue="Application.din_a4seite" />
+        <item itemvalue="Application.monitor" />
         <item itemvalue="Application.Mathe" />
         <item itemvalue="Application.TypenKonvertierung" />
-        <item itemvalue="Application.sekunden" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +164,7 @@
       <workItem from="1723012683537" duration="80000" />
       <workItem from="1723013735941" duration="3344000" />
       <workItem from="1723017229088" duration="16063000" />
-      <workItem from="1723042109016" duration="10602000" />
+      <workItem from="1723042109016" duration="21340000" />
     </task>
     <servers />
   </component>

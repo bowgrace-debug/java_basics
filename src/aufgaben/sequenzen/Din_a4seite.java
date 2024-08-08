@@ -7,7 +7,7 @@ package aufgaben.sequenzen;
  * @author Maximilian Stolle
  * @version 08.08.2024
  */
-public class din_a4seite {
+public class Din_a4seite {
     public static void main(String[] args) {
 
         // Eingabe

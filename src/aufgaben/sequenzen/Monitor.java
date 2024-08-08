@@ -7,7 +7,7 @@ package aufgaben.sequenzen;
  * @author Maximilian Stolle
  * @version 08.08.2024
  */
-public class monitor {
+public class Monitor {
     public static void main(String[] args) {
 
         // Eingabe

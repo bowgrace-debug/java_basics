@@ -9,7 +9,7 @@ package aufgaben.sequenzen;
  * @author Maximilian Stolle
  * @version 07.08.2024
  */
-public class rechteck {
+public class Rechteck {
     public static void main(String[] args) {
 
         // Eingabe

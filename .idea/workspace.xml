@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/konsole/FarbenKonsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/konsole/Konsoleneingabe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/konsole/PrintF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprachkern/Rechnungsgenauigkeit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sprachkern/Ausgabe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/konsole/Ausgabe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sprachkern/Rechnungsgenauigkeit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/Rechnungsgenauigkeit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +100,7 @@
       <workItem from="1723012683537" duration="80000" />
       <workItem from="1723013735941" duration="3344000" />
       <workItem from="1723017229088" duration="16063000" />
-      <workItem from="1723042109016" duration="5074000" />
+      <workItem from="1723042109016" duration="5785000" />
     </task>
     <servers />
   </component>

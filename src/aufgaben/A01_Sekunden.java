@@ -1,4 +1,4 @@
-package aufgaben.sequenzen;
+package aufgaben;
 
 /**
  * sekunden
@@ -9,7 +9,7 @@ package aufgaben.sequenzen;
  * @author Maximilian Stolle
  * @version 07.08.2024
  */
-public class Sekunden {
+public class A01_Sekunden {
     public static void main(String[] args) {
 
         // Eingabe

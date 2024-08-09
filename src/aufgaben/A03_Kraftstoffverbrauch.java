@@ -1,4 +1,4 @@
-package aufgaben.sequenzen;
+package aufgaben;
 
 /**
  * kraftstoffverbrauch
@@ -10,7 +10,7 @@ package aufgaben.sequenzen;
  * @author Maximilian Stolle
  * @version 07.08.2024
  */
-public class Kraftstoffverbrauch {
+public class A03_Kraftstoffverbrauch {
     public static void main(String[] args) {
 
         // Eingabe

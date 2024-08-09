@@ -1,4 +1,4 @@
-package aufgaben.sequenzen;
+package aufgaben;
 
 /**
  * Monitor
@@ -7,7 +7,7 @@ package aufgaben.sequenzen;
  * @author Maximilian Stolle
  * @version 08.08.2024
  */
-public class Monitor {
+public class A04_SpeicherbedarfMonitor {
     public static void main(String[] args) {
 
         // Eingabe

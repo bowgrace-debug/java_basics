@@ -1,4 +1,4 @@
-package aufgaben.sequenzen;
+package aufgaben;
 
 /**
  * rechteck
@@ -9,7 +9,7 @@ package aufgaben.sequenzen;
  * @author Maximilian Stolle
  * @version 07.08.2024
  */
-public class Rechteck {
+public class A02_Rechteck {
     public static void main(String[] args) {
 
         // Eingabe

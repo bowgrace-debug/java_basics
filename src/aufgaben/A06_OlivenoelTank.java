@@ -1,15 +1,13 @@
-package aufgaben.sequenzen;
+package aufgaben;
 
 /**
  * olivenoeltank
  * <p>
- *     Aufgabe in Teams drin
- *     Nochmal durchrechnen!
  *
  * @author Maximilian Stolle
  * @version 08.08.2024
  */
-public class Olivenoeltank {
+public class A06_OlivenoelTank {
     public static void main(String[] args) {
 
         // Eingabe
@@ -23,8 +21,9 @@ public class Olivenoeltank {
         double literMenge = volumen * 0.001;
 
         // Ausgabe
-        System.out.printf("Füllmenge vom Olivenöl in Liter: %,.3f l \n ", literMenge);
-        System.out.printf("Füllmenge vom Olivenöl in Kilogramm: %,.3f kg \n", dichteMenge);
+        System.out.printf("Füllmenge vom Olivenöl in\nLiter beträgt: %,.3f l \n ", literMenge);
+        System.out.println(); // Absatz
+        System.out.printf("Füllmenge vom Olivenöl in\nKilogramm beträgt: %,.3f kg \n", dichteMenge);
 
     }
 }

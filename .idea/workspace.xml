@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/zeichenketten/Zeichenketten.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/sequenzen/Din_a4seite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A05_SpeicherbedarfDINA4Seite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/sequenzen/Kraftstoffverbrauch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A03_Kraftstoffverbrauch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/sequenzen/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A04_SpeicherbedarfMonitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/sequenzen/Olivenoeltank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A06_OlivenoelTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/sequenzen/Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A02_Rechteck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/sequenzen/Sekunden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A01_Sekunden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A06_OlivenoelTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A06_OlivenoelTank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sprachkern/VariablenUndDatenTypen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/VariablenUndDatenTypen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +47,8 @@
     "Application.Mathe.executor": "Run",
     "Application.Monitor.executor": "Run",
     "Application.TypenKonvertierung.executor": "Run",
+    "Application.VariablenUndDatenTypen.executor": "Run",
+    "Application.Zeichenketten.executor": "Run",
     "Application.din_a4seite.executor": "Run",
     "Application.olivenoeltank.executor": "Run",
     "Application.sekunden.executor": "Run",
@@ -70,7 +69,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.A06_OlivenoelTank">
+  <component name="RunManager" selected="Application.Zeichenketten">
     <configuration name="A04_SpeicherbedarfMonitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A04_SpeicherbedarfMonitor" />
       <module name="java_basic" />
@@ -110,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mathe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.Mathe" />
+    <configuration name="VariablenUndDatenTypen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sprachkern.VariablenUndDatenTypen" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
@@ -123,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypenKonvertierung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.TypenKonvertierung" />
+    <configuration name="Zeichenketten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zeichenketten.Zeichenketten" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
+          <option name="PATTERN" value="zeichenketten.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zeichenketten" />
+        <item itemvalue="Application.VariablenUndDatenTypen" />
         <item itemvalue="Application.A06_OlivenoelTank" />
         <item itemvalue="Application.A05_SpeicherbedarfDINA4Seite" />
         <item itemvalue="Application.A04_SpeicherbedarfMonitor" />
-        <item itemvalue="Application.Mathe" />
-        <item itemvalue="Application.TypenKonvertierung" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +169,7 @@
       <workItem from="1723013735941" duration="3344000" />
       <workItem from="1723017229088" duration="16063000" />
       <workItem from="1723042109016" duration="30227000" />
-      <workItem from="1723145764785" duration="3584000" />
+      <workItem from="1723145764785" duration="10292000" />
     </task>
     <servers />
   </component>

@@ -130,6 +130,11 @@ public class VariablenUndDatenTypen {
         /*
             Boolean (Wahrheitswerte)
         */
+        boolean boo;
+
+        // Literale
+        boo = true;
+        boo = false;
 
         /*
             Konstante

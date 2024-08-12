@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zeichenketten/Zeichenketten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A04_Speicherbedarf_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A05_Speicherbedarf_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprachkern/Verzweigungen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A06_OlivenoelTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A06_OlivenoelTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sprachkern/VariablenUndDatenTypen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/VariablenUndDatenTypen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A01_Sekunden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A01_Sekunden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A02_Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A02_Rechteck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A03_Kraftstoffverbrauch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A03_Kraftstoffverbrauch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A04_SpeicherbedarfMonitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A05_SpeicherbedarfDINA4Seite.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,22 +50,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.A01_Sekunden.executor": "Run",
     "Application.A05_SpeicherbedarfDINA4Seite.executor": "Run",
     "Application.A06_OlivenoelTank.executor": "Run",
     "Application.Mathe.executor": "Run",
     "Application.Monitor.executor": "Run",
     "Application.TypenKonvertierung.executor": "Run",
     "Application.VariablenUndDatenTypen.executor": "Run",
+    "Application.Verzweigungen.executor": "Run",
     "Application.Zeichenketten.executor": "Run",
     "Application.din_a4seite.executor": "Run",
     "Application.olivenoeltank.executor": "Run",
     "Application.sekunden.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics",
+    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,26 +83,18 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zeichenketten">
-    <configuration name="A04_SpeicherbedarfMonitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A04_SpeicherbedarfMonitor" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.A01_Sekunden">
+    <configuration name="A01_Sekunden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A01_Sekunden" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A05_SpeicherbedarfDINA4Seite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A05_SpeicherbedarfDINA4Seite" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
+          <option name="PATTERN" value="aufgaben.A01_Sekunden" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,7 +107,7 @@
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
+          <option name="PATTERN" value="aufgaben.A01_Sekunden" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,6 +117,19 @@
     </configuration>
     <configuration name="VariablenUndDatenTypen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sprachkern.VariablenUndDatenTypen" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sprachkern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Verzweigungen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sprachkern.Verzweigungen" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A01_Sekunden" />
+        <item itemvalue="Application.Verzweigungen" />
         <item itemvalue="Application.Zeichenketten" />
         <item itemvalue="Application.VariablenUndDatenTypen" />
         <item itemvalue="Application.A06_OlivenoelTank" />
-        <item itemvalue="Application.A05_SpeicherbedarfDINA4Seite" />
-        <item itemvalue="Application.A04_SpeicherbedarfMonitor" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +188,9 @@
       <workItem from="1723013735941" duration="3344000" />
       <workItem from="1723017229088" duration="16063000" />
       <workItem from="1723042109016" duration="30227000" />
-      <workItem from="1723145764785" duration="10292000" />
+      <workItem from="1723145764785" duration="18930000" />
+      <workItem from="1723228638576" duration="3254000" />
+      <workItem from="1723410966076" duration="1181000" />
     </task>
     <servers />
   </component>

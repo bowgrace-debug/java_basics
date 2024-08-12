@@ -1,29 +1,29 @@
 package aufgaben;
 
 /**
- * rechteck
+ * A01_Rechteck
  * <p>
- * Schreibe ein Programm, welches anhand der Seitenlänge a und b
- * den Umfang und die Fläche eines Rechtecks berechnet und ausgibt.
  *
  * @author Maximilian Stolle
- * @version 07.08.2024
+ * @version 11.08.2024
  */
 public class A02_Rechteck {
     public static void main(String[] args) {
 
         // Eingabe
-        double a = 5;
-        double b = 7;
+        double a = 3; // m
+        double b = 4; // m
 
-        // Vorbereitung
-        double umrechnungInUmfang = ((2 * a) + (2 * b));
-        double umrechnungInFlaeche = a * b;
+        // Verarbeitung
+        double umfang = (a + b) + (a + b);
+        double flaeche = a * b;
+
+        String ausgabe = String.format(
+                "Der Umfang entspricht %.0f Meter\n" +
+                        " Die Fläche entspricht %.0f Quadratmeter\n",
+                umfang, flaeche);
 
         // Ausgabe
-        System.out.println(umrechnungInUmfang + " Umfang");
-        System.out.println(umrechnungInFlaeche + " Fläche");
-
-
+        System.out.println(ausgabe);
     }
 }

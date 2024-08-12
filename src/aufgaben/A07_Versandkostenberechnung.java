@@ -11,30 +11,29 @@ public class A07_Versandkostenberechnung {
     public static void main(String[] args) {
 
         // Eingabe
-        double eingabe = 15.0; // kg
-        double preis = 0.0;
+        double eingabe = 4.0; // kg
 
         // Verarbeitung
-        if (eingabe <= 20.0 && eingabe > 0.0) {
-            preis = 14.00;
-        }
-        if (eingabe <= 10.0 && eingabe > 5.0) {
-            preis = 10.50;
-        }
-        if (eingabe <= 5.0 && eingabe > 0.0) {
-            preis = 7.00;
-        }
-        if (eingabe > 20.0 || eingabe <= 0.0) {
-            System.out.printf(
-                    "Pakete über %.1f kg können nicht versand werden.",
-                    eingabe);
-        } else {
+        if (eingabe > 0 && eingabe <= 20) {
+            double preis = 0.0;
+            if (eingabe <= 5) {
+                preis = 7.0;
+            } else {
+                if (eingabe <= 10) {
+                    preis = 10.5;
+                } else {
+                    preis = 14.0;
+                }
+            }
             String ausgabe = String.format(
-                    "Die Versandkosten für %.1f kg betragen: %.2f Euro",
+                    "Die Versandgebühr für Pakete mit %.1f Kg werden für %.2f Euro berechnet",
                     eingabe, preis);
-
-            // Ausgabe
             System.out.println(ausgabe);
+        } else {
+            System.err.printf(
+                    "Pakete über %.1f Kg können nicht versand werden!",
+                    eingabe);
         }
     }
 }
+

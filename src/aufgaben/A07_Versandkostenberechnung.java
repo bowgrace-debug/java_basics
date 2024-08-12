@@ -25,7 +25,9 @@ public class A07_Versandkostenberechnung {
             preis = 7.00;
         }
         if (eingabe > 20.0 || eingabe <= 0.0) {
-            System.out.printf("Pakete über %.1f kg können nicht versand werden.", eingabe);
+            System.out.printf(
+                    "Pakete über %.1f kg können nicht versand werden.",
+                    eingabe);
         } else {
             String ausgabe = String.format(
                     "Die Versandkosten für %.1f kg betragen: %.2f Euro",

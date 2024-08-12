@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A07_Versandkostenberechnung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A07_VersandkostenberechnungKopie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A02_Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A02_Rechteck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A07_Versandkostenberechnung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A07_Versandkostenberechnung.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A07_VersandkostenberechnungKopie">
+  <component name="RunManager" selected="Application.A07_Versandkostenberechnung">
     <configuration name="A01_Sekunden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A01_Sekunden" />
       <module name="java_basic" />
@@ -116,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A07_VersandkostenberechnungKopie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A07_VersandkostenberechnungKopie" />
+    <configuration name="A07_Versandkostenberechnung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A07_Versandkostenberechnung" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
@@ -157,8 +155,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A07_VersandkostenberechnungKopie" />
         <item itemvalue="Application.A07_Versandkostenberechnung" />
+        <item itemvalue="Application.A07_VersandkostenberechnungKopie" />
         <item itemvalue="Application.Verzweigungen" />
         <item itemvalue="Application.A01_Sekunden" />
         <item itemvalue="Application.Zeichenketten" />
@@ -191,7 +189,7 @@
       <workItem from="1723042109016" duration="30227000" />
       <workItem from="1723145764785" duration="18930000" />
       <workItem from="1723228638576" duration="3254000" />
-      <workItem from="1723410966076" duration="9537000" />
+      <workItem from="1723410966076" duration="9957000" />
     </task>
     <servers />
   </component>

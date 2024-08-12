@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A08_Provisionsberechnungen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/Provision.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A07_Versandkostenberechnung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A07_Versandkostenberechnung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A08_Provisionsberechnungen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A08_Provisionsberechnungen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Application.A08_ProvisionsberechnungenKopie.executor": "Run",
     "Application.Mathe.executor": "Run",
     "Application.Monitor.executor": "Run",
+    "Application.Provision.executor": "Run",
     "Application.TypenKonvertierung.executor": "Run",
     "Application.VariablenUndDatenTypen.executor": "Run",
     "Application.Verzweigungen.executor": "Run",
@@ -69,7 +70,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben/A07_Versandkostenberechnung.java",
+    "last_opened_file_path": "C:/Max/Programmieren/Lernen/java_udemy",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,7 +91,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A08_Provisionsberechnungen">
+  <component name="RunManager" selected="Application.Provision">
     <configuration name="A07_Versandkostenberechnung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A07_Versandkostenberechnung" />
       <module name="java_basic" />
@@ -143,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Verzweigungen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.Verzweigungen" />
+    <configuration name="Provision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.Provision" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Provision" />
         <item itemvalue="Application.A08_Provisionsberechnungen" />
         <item itemvalue="Application.A08_ProvisionsberechnungenKopie" />
         <item itemvalue="Application.A07_Versandkostenberechnung" />
         <item itemvalue="Application.A07_VersandkostenberechnungKopie" />
-        <item itemvalue="Application.Verzweigungen" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +193,7 @@
       <workItem from="1723042109016" duration="30227000" />
       <workItem from="1723145764785" duration="18930000" />
       <workItem from="1723228638576" duration="3254000" />
-      <workItem from="1723410966076" duration="20677000" />
+      <workItem from="1723410966076" duration="23058000" />
     </task>
     <servers />
   </component>

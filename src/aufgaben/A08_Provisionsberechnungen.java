@@ -19,7 +19,7 @@ public class A08_Provisionsberechnungen {
         double provision10 = 0.10; // %
 
         // Verarbeitung
-        if (umsatz > 0 && umsatz <= 5000000) {
+        if (umsatz > 0.0 && umsatz <= 5000000.0) {
             double provision = 0.0;
             if (umsatz <= 300000.0) {
                 provisionInProzent = 3;

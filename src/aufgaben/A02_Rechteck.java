@@ -20,7 +20,7 @@ public class A02_Rechteck {
 
         String ausgabe = String.format(
                 "Der Umfang entspricht %.0f Meter\n" +
-                        " Die Fläche entspricht %.0f Quadratmeter\n",
+                "Die Fläche entspricht %.0f Quadratmeter\n",
                 umfang, flaeche);
 
         // Ausgabe

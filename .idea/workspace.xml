@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A04_Speicherbedarf_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A05_Speicherbedarf_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sprachkern/Verzweigungen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A07_Versandkostenberechnung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A07_VersandkostenberechnungKopie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A01_Sekunden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A01_Sekunden.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aufgaben/A02_Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A02_Rechteck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A03_Kraftstoffverbrauch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A03_Kraftstoffverbrauch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A04_SpeicherbedarfMonitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A05_SpeicherbedarfDINA4Seite.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +48,8 @@
     "Application.A01_Sekunden.executor": "Run",
     "Application.A05_SpeicherbedarfDINA4Seite.executor": "Run",
     "Application.A06_OlivenoelTank.executor": "Run",
+    "Application.A07_Versandkostenberechnung.executor": "Run",
+    "Application.A07_VersandkostenberechnungKopie.executor": "Run",
     "Application.Mathe.executor": "Run",
     "Application.Monitor.executor": "Run",
     "Application.TypenKonvertierung.executor": "Run",
@@ -71,7 +68,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben",
+    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben/A07_Versandkostenberechnung.java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,6 +77,7 @@
     "onboarding.tips.debug.path": "C:/java_projects/java_basic/src/Main.java",
     "settings.editor.selected.configurable": "fileTemplates",
     "show.migrate.to.gradle.popup": "false",
+    "two.files.diff.last.used.file": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben/A07_Versandkostenberechnung.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -87,8 +85,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aufgaben" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.A01_Sekunden">
+  <component name="RunManager" selected="Application.A07_VersandkostenberechnungKopie">
     <configuration name="A01_Sekunden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A01_Sekunden" />
       <module name="java_basic" />
@@ -102,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A06_OlivenoelTank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A06_OlivenoelTank" />
+    <configuration name="A07_Versandkostenberechnung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A07_Versandkostenberechnung" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.A01_Sekunden" />
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablenUndDatenTypen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.VariablenUndDatenTypen" />
+    <configuration name="A07_VersandkostenberechnungKopie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A07_VersandkostenberechnungKopie" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A01_Sekunden" />
+        <item itemvalue="Application.A07_VersandkostenberechnungKopie" />
+        <item itemvalue="Application.A07_Versandkostenberechnung" />
         <item itemvalue="Application.Verzweigungen" />
+        <item itemvalue="Application.A01_Sekunden" />
         <item itemvalue="Application.Zeichenketten" />
-        <item itemvalue="Application.VariablenUndDatenTypen" />
-        <item itemvalue="Application.A06_OlivenoelTank" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +191,7 @@
       <workItem from="1723042109016" duration="30227000" />
       <workItem from="1723145764785" duration="18930000" />
       <workItem from="1723228638576" duration="3254000" />
-      <workItem from="1723410966076" duration="1181000" />
+      <workItem from="1723410966076" duration="9537000" />
     </task>
     <servers />
   </component>

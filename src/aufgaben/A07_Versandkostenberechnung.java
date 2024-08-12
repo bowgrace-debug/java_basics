@@ -18,7 +18,8 @@ public class A07_Versandkostenberechnung {
             double preis = 0.0;
             if (eingabe <= 5) {
                 preis = 7.0;
-            } else {
+            }
+            else {
                 if (eingabe <= 10) {
                     preis = 10.5;
                 } else {

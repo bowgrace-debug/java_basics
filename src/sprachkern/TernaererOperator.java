@@ -1,4 +1,4 @@
-package aufgaben;
+package sprachkern;
 
 /**
  * Ternaerer Operator
@@ -32,6 +32,6 @@ public class TernaererOperator {
         preis = gewicht <= 10 ? 5.0 : 15.0;
         preis = (gewicht <= 10) ? 5.0 : 15.0; // Besser zu lesen
         preis = (((gewicht <= 10) ? 5.0 : 15.0) + 100);
-        preis = (((gewicht <= 10) ? Math.sqrt(144.0) : 5.0 * 3.0));
+        preis = (((gewicht <= 10) ? Math.sqrt(144.0) : 5.0 * 3.0)); //Wer hat denn so einen Scheiß geschrieben
     }
 }

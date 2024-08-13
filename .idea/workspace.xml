@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/Provision.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A07_Versandkostenberechnung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A07_Versandkostenberechnung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aufgaben/A08_Provisionsberechnungen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A08_Provisionsberechnungen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/Provision.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Max/Programmieren/Lernen/java_udemy",
+    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -91,7 +92,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Provision">
+  <component name="RunManager" selected="Application.A08_Provisionsberechnungen">
     <configuration name="A07_Versandkostenberechnung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A07_Versandkostenberechnung" />
       <module name="java_basic" />
@@ -159,11 +160,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Provision" />
         <item itemvalue="Application.A08_Provisionsberechnungen" />
+        <item itemvalue="Application.Provision" />
         <item itemvalue="Application.A08_ProvisionsberechnungenKopie" />
         <item itemvalue="Application.A07_Versandkostenberechnung" />
-        <item itemvalue="Application.A07_VersandkostenberechnungKopie" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +194,8 @@
       <workItem from="1723145764785" duration="18930000" />
       <workItem from="1723228638576" duration="3254000" />
       <workItem from="1723410966076" duration="23058000" />
+      <workItem from="1723486503544" duration="533000" />
+      <workItem from="1723532019286" duration="544000" />
     </task>
     <servers />
   </component>

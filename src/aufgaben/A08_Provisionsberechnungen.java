@@ -11,7 +11,7 @@ public class A08_Provisionsberechnungen {
     public static void main(String[] args) {
 
         // Eingabe
-        double umsatz = 2000000.0;
+        double umsatz = 000000.0;
 
         double provisionInProzent = 0.00; // %
         double provision3 = 0.03; // %
@@ -42,6 +42,9 @@ public class A08_Provisionsberechnungen {
                             "Das sind %,.2f €",
                     umsatz, provisionInProzent, provision);
             System.out.println(ausgabe);
+        }
+        else {
+            System.err.println("Bei keinem Umsatz, gibt es keine Provision!");
         }
     }
 }

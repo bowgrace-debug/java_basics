@@ -30,7 +30,8 @@ public class A07_Versandkostenberechnung {
                     "Die Versandgebühr für Pakete mit %.1f Kg werden für %.2f Euro berechnet",
                     eingabe, preis);
             System.out.println(ausgabe);
-        } else {
+        }
+        else {
             System.err.printf(
                     "Pakete über %.1f Kg können nicht versand werden!",
                     eingabe);

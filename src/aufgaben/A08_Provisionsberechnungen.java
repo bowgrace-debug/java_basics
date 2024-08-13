@@ -39,7 +39,7 @@ public class A08_Provisionsberechnungen {
             }
             String ausgabe = String.format(
                     "Bei einem Umsatz von %,.2f € werden %.0f Prozent als Provision angerechnet.\n" +
-                    "Das sind %,.2f €",
+                    "Das sind %,.2f €\n",
                     umsatz, provisionInProzent, provision);
 
             // Ausgabe

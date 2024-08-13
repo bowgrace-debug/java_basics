@@ -41,6 +41,8 @@ public class A08_Provisionsberechnungen {
                     "Bei einem Umsatz von %,.2f € werden %.0f Prozent als Provision angerechnet.\n" +
                             "Das sind %,.2f €",
                     umsatz, provisionInProzent, provision);
+
+            // Ausgabe
             System.out.println(ausgabe);
         }
         else {

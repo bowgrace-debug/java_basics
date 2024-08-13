@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A09_Schaltjahr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A10_ErmittlungDerAnrede.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A11_Zahlenreihen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A12_kompletteEinmaleins.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sprachkern/Schleifen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/Schleifen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sprachkern/TernaererOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/TernaererOperator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +54,11 @@
     "Application.A07_VersandkostenberechnungKopie.executor": "Run",
     "Application.A08_Provisionsberechnungen.executor": "Run",
     "Application.A08_ProvisionsberechnungenKopie.executor": "Run",
+    "Application.A09_Schaljahr.executor": "Run",
+    "Application.A09_Schaltjahr.executor": "Run",
+    "Application.A10_ErmittlungDerAnrede.executor": "Run",
+    "Application.A11_Zahlenreihen.executor": "Run",
+    "Application.A12_kompletteEinmaleins.executor": "Run",
     "Application.Fallauswahl.executor": "Run",
     "Application.Mathe.executor": "Run",
     "Application.Monitor.executor": "Run",
@@ -93,7 +102,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Schleifen">
+  <component name="RunManager" selected="Application.A12_kompletteEinmaleins">
     <configuration name="A07_Versandkostenberechnung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A07_Versandkostenberechnung" />
       <module name="java_basic" />
@@ -107,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A08_Provisionsberechnungen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A08_Provisionsberechnungen" />
+    <configuration name="A09_Schaltjahr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A09_Schaltjahr" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fallauswahl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.Fallauswahl" />
+    <configuration name="A10_ErmittlungDerAnrede" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A10_ErmittlungDerAnrede" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +142,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Provision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.Provision" />
+    <configuration name="A11_Zahlenreihen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A11_Zahlenreihen" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
+          <option name="PATTERN" value="aufgaben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A12_kompletteEinmaleins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A12_kompletteEinmaleins" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,26 +181,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TernaererOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.TernaererOperator" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A12_kompletteEinmaleins" />
+        <item itemvalue="Application.A11_Zahlenreihen" />
         <item itemvalue="Application.Schleifen" />
-        <item itemvalue="Application.Fallauswahl" />
-        <item itemvalue="Application.A08_Provisionsberechnungen" />
-        <item itemvalue="Application.TernaererOperator" />
-        <item itemvalue="Application.Provision" />
+        <item itemvalue="Application.A10_ErmittlungDerAnrede" />
+        <item itemvalue="Application.A09_Schaltjahr" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +219,7 @@
       <workItem from="1723228638576" duration="3254000" />
       <workItem from="1723410966076" duration="23058000" />
       <workItem from="1723486503544" duration="533000" />
-      <workItem from="1723532019286" duration="8338000" />
+      <workItem from="1723532019286" duration="23043000" />
     </task>
     <servers />
   </component>

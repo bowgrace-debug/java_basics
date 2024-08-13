@@ -18,7 +18,18 @@ public class Schleifen {
         int x = -1;
         while (x < 5) {
             x++;
-            System.out.println(x);
+            System.out.print(x + " ");
+        }
+
+        System.out.println();
+
+        /*
+            Beispiel: 2 6 10 14 18
+        */
+        int y = 2;
+        while (y <= 18) {
+            System.out.print(y+ " ");
+            y+= 4;
         }
     }
 }

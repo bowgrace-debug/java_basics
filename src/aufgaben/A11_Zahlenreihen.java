@@ -42,14 +42,9 @@ public class A11_Zahlenreihen {
 
         System.out.println();
 
-        int b = 0;
-        while (b < 7 ) {
-            if (b % 2 == 0) {
-                System.out.print("1");
-            }
-            else {
-                System.out.print(" 0 ");
-            }
+        int b = 1;
+        while (b <= 7 ) {
+                System.out.print(b % 2);
             b++;
         }
     }

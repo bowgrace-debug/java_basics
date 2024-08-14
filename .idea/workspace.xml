@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A11_Zahlenreihen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A11_Zahlenreihen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A09_Schaltjahr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A09_Schaltjahr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A12_kompletteEinmaleins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A12_kompletteEinmaleins.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A11_Zahlenreihen">
+  <component name="RunManager" selected="Application.A12_kompletteEinmaleins">
     <configuration name="A07_Versandkostenberechnung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A07_Versandkostenberechnung" />
       <module name="java_basic" />
@@ -179,8 +180,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A11_Zahlenreihen" />
         <item itemvalue="Application.A12_kompletteEinmaleins" />
+        <item itemvalue="Application.A11_Zahlenreihen" />
         <item itemvalue="Application.A09_Schaltjahr" />
         <item itemvalue="Application.Schleifen" />
         <item itemvalue="Application.A10_ErmittlungDerAnrede" />
@@ -216,7 +217,7 @@
       <workItem from="1723410966076" duration="23058000" />
       <workItem from="1723486503544" duration="533000" />
       <workItem from="1723532019286" duration="23717000" />
-      <workItem from="1723616332859" duration="2614000" />
+      <workItem from="1723616332859" duration="4294000" />
     </task>
     <servers />
   </component>

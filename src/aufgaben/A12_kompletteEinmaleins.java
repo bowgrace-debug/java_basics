@@ -10,7 +10,7 @@ package aufgaben;
 public class A12_kompletteEinmaleins {
     public static void main(String[] args) {
 
-        // Aufgabe 1
+        // Aufgabe 1 1x5
         int a = 1;
         int mal5 = 5;
         while(a < 11) {
@@ -20,7 +20,7 @@ public class A12_kompletteEinmaleins {
 
         System.out.println();
 
-        // Aufgabe 2
+        // Aufgabe 2 1x1
         int b = 1;
         while (b <= 10) {
             int mal = 1;
@@ -33,7 +33,7 @@ public class A12_kompletteEinmaleins {
             b++;
         }
 
-        //Aufgabe 3
+        //Aufgabe 3 Matrix
         int x = 1;
         int y = 1;
 

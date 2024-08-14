@@ -11,18 +11,18 @@ public class A09_Schaltjahr {
     public static void main(String[] args) {
 
         // Eingabe
-        double eingabeJahr = 2024;
+        int eingabeJahr = 2024;
 
         // Verarbeitung
         if ((eingabeJahr % 4 == 0 && eingabeJahr % 100 != 0) || (eingabeJahr % 400 == 0)) {
             String ausgabe = String.format(
-                    "%.0f ist ein Schaltjahr.",
+                    "%d ist ein Schaltjahr.",
                     eingabeJahr);
             System.out.println(ausgabe);
         }
         else {
             String ausgabe = String.format(
-                    "%.0f ist kein Schaltjahr",
+                    "%d ist kein Schaltjahr",
                     eingabeJahr);
             System.out.println(ausgabe);
         }

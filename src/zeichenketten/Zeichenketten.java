@@ -106,5 +106,19 @@ public class Zeichenketten {
 //      String waehrung = "Euro";
         String ausgabePreis = String.format("Preis: %,.2f %s", preis, waehrung);
         System.out.println(ausgabePreis);
+
+        /*
+               Literationen mit Zeichenketten
+
+               Beispiel: beliebiger Text senkrecht ausgeben
+        */
+        String text = "Ein beliebiger Text";
+
+        int i = 0;
+        laenge = text.length();
+        while(i < laenge) {
+            System.out.println(text.charAt(i));
+            i++;
+        }
     }
 }

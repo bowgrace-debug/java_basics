@@ -11,7 +11,7 @@ public class A09_Schaltjahr {
     public static void main(String[] args) {
 
         // Eingabe
-        double eingabeJahr = 2006;
+        double eingabeJahr = 2024;
 
         // Verarbeitung
         if ((eingabeJahr % 4 == 0 && eingabeJahr % 100 != 0) || (eingabeJahr % 400 == 0)) {

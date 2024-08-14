@@ -35,11 +35,21 @@ public class A12_kompletteEinmaleins {
 
         //Aufgabe 3
         int x = 1;
+        int y = 1;
+
+        System.out.print("\t");
+        while (y <= 10) {
+            int ergebnis = x * y;
+            System.out.printf("%4d", ergebnis);
+            y++;
+        }
+        System.out.println();
         while (x <= 10) {
-            int y = 1;
+            y = 1;
+            System.out.printf("%4d",x);
             while (y <= 10) {
                 int ergebnis = x * y;
-                System.out.print(ergebnis + "  ");
+                System.out.printf("%4d",ergebnis);
                 y++;
             }
             System.out.println();

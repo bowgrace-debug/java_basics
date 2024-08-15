@@ -7,7 +7,7 @@ package aufgaben.aufgabenNico;
  * @author Maximilian Stolle
  * @version 15.08.2024
  */
-public class AE16_GeradeZiffern {
+public class AE02_GeradeZiffern {
     public static void main(String[] args) {
 
         String text = "1235429380879569653493438623046546546544396412603464";

@@ -7,7 +7,7 @@ package aufgaben.aufgabenNico;
  * @author Maximilian Stolle
  * @version 15.08.2024
  */
-public class AE15_learn {
+public class AE01_learn {
     public static void main(String[] args) {
         String zeichenkette = "AaaAaaAabAbaaBbaBabbBabBaaAbAaAAA";
         int laenge = zeichenkette.length();

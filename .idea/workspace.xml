@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A13_Rueckwaerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A14_UmlauteZaehlen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A14_UmlauteZaehlen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A14_UmlauteZaehlen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +211,7 @@
       <workItem from="1723486503544" duration="533000" />
       <workItem from="1723532019286" duration="23717000" />
       <workItem from="1723616332859" duration="18501000" />
-      <workItem from="1723703749954" duration="1538000" />
+      <workItem from="1723703749954" duration="1778000" />
     </task>
     <servers />
   </component>

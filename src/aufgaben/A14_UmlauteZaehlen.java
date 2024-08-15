@@ -36,9 +36,9 @@ public class A14_UmlauteZaehlen {
             }
             i++;
         }
-        System.out.println("ä kommt " + counterAe + " mal vor");
-        System.out.println("ö kommt " + counterOe + " mal vor");
-        System.out.println("ü kommt " + counterUe + " mal vor");
+        System.out.println("Das 'ä' kommt " + counterAe + " mal vor");
+        System.out.println("Das 'ö' kommt " + counterOe + " mal vor");
+        System.out.println("Das 'ü' kommt " + counterUe + " mal vor");
 
 
         System.out.println();
@@ -69,8 +69,8 @@ public class A14_UmlauteZaehlen {
              }
              i++;
          }
-        System.out.println("ä kommt " + counterAe + " mal vor");
-        System.out.println("ö kommt " + counterOe + " mal vor");
-        System.out.println("ü kommt " + counterUe + " mal vor");
+        System.out.println("Das 'ä' kommt " + counterAe + " mal vor");
+        System.out.println("Das 'ö' kommt " + counterOe + " mal vor");
+        System.out.println("Das 'ü' kommt " + counterUe + " mal vor");
     }
 }

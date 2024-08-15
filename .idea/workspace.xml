@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A13_Rueckwaerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A14_UmlauteZaehlen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zeichenketten/Zeichenketten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zeichenketten/Zeichenketten.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,55 +42,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.A01_Sekunden.executor": "Run",
-    "Application.A05_SpeicherbedarfDINA4Seite.executor": "Run",
-    "Application.A06_OlivenoelTank.executor": "Run",
-    "Application.A07_Versandkostenberechnung.executor": "Run",
-    "Application.A07_VersandkostenberechnungKopie.executor": "Run",
-    "Application.A08_Provisionsberechnungen.executor": "Run",
-    "Application.A08_ProvisionsberechnungenKopie.executor": "Run",
-    "Application.A09_Schaljahr.executor": "Run",
-    "Application.A09_Schaltjahr.executor": "Run",
-    "Application.A10_ErmittlungDerAnrede.executor": "Run",
-    "Application.A11_Zahlenreihen.executor": "Run",
-    "Application.A12_kompletteEinmaleins.executor": "Run",
-    "Application.Fallauswahl.executor": "Run",
-    "Application.Mathe.executor": "Run",
-    "Application.Monitor.executor": "Run",
-    "Application.Provision.executor": "Run",
-    "Application.Schleifen.executor": "Run",
-    "Application.TernaererOperator.executor": "Run",
-    "Application.TypenKonvertierung.executor": "Run",
-    "Application.VariablenUndDatenTypen.executor": "Run",
-    "Application.Verzweigungen.executor": "Run",
-    "Application.Zeichenketten.executor": "Run",
-    "Application.din_a4seite.executor": "Run",
-    "Application.olivenoeltank.executor": "Run",
-    "Application.sekunden.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/java_projects/java_basic/src/Main.java",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "show.migrate.to.gradle.popup": "false",
-    "two.files.diff.last.used.file": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben/A07_Versandkostenberechnung.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A01_Sekunden.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A05_SpeicherbedarfDINA4Seite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A06_OlivenoelTank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A07_Versandkostenberechnung.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A07_VersandkostenberechnungKopie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A08_Provisionsberechnungen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A08_ProvisionsberechnungenKopie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A09_Schaljahr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A09_Schaltjahr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A10_ErmittlungDerAnrede.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A11_Zahlenreihen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A12_kompletteEinmaleins.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A13_Rueckwaerts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A14_UmlauteZaehlen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fallauswahl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mathe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Monitor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Provision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Schleifen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaererOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypenKonvertierung.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariablenUndDatenTypen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Verzweigungen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zeichenketten.executor&quot;: &quot;Run&quot;,
+    &quot;Application.din_a4seite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.olivenoeltank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sekunden.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/java_projects/java_basic/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben/A07_Versandkostenberechnung.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src" />
@@ -103,20 +106,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zeichenketten">
-    <configuration name="A09_Schaltjahr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A09_Schaltjahr" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.A14_UmlauteZaehlen">
     <configuration name="A11_Zahlenreihen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A11_Zahlenreihen" />
       <module name="java_basic" />
@@ -143,12 +133,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Schleifen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.Schleifen" />
+    <configuration name="A13_Rueckwaerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A13_Rueckwaerts" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
+          <option name="PATTERN" value="aufgaben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A14_UmlauteZaehlen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A14_UmlauteZaehlen" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A14_UmlauteZaehlen" />
+        <item itemvalue="Application.A13_Rueckwaerts" />
         <item itemvalue="Application.Zeichenketten" />
         <item itemvalue="Application.A12_kompletteEinmaleins" />
         <item itemvalue="Application.A11_Zahlenreihen" />
-        <item itemvalue="Application.A09_Schaltjahr" />
-        <item itemvalue="Application.Schleifen" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +211,8 @@
       <workItem from="1723410966076" duration="23058000" />
       <workItem from="1723486503544" duration="533000" />
       <workItem from="1723532019286" duration="23717000" />
-      <workItem from="1723616332859" duration="8591000" />
+      <workItem from="1723616332859" duration="18501000" />
+      <workItem from="1723703749954" duration="1538000" />
     </task>
     <servers />
   </component>

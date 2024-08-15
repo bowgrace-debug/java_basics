@@ -13,9 +13,17 @@ public class A12_kompletteEinmaleins {
         // Aufgabe 1 1x5
         int a = 1;
         int mal5 = 5;
-        while(a < 11) {
+        while (a < 11) {
             System.out.println(a + " x 5 = " + a * mal5);
             a++;
+        }
+
+        System.out.println();
+        // Aufgabe 1 1x7 mit einer for Schleife
+        int mal7 = 7;
+        for (int zahl = 1; zahl <= 10; zahl++) {
+            int ergebnis = zahl * mal7;
+            System.out.printf("%d x %d = %d\n", zahl, mal7, ergebnis);
         }
 
         System.out.println();
@@ -46,10 +54,10 @@ public class A12_kompletteEinmaleins {
         System.out.println();
         while (x <= 10) {
             y = 1;
-            System.out.printf("%4d",x);
+            System.out.printf("%4d", x);
             while (y <= 10) {
                 int ergebnis = x * y;
-                System.out.printf("%4d",ergebnis);
+                System.out.printf("%4d", ergebnis);
                 y++;
             }
             System.out.println();

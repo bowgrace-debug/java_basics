@@ -1,4 +1,4 @@
-package aufgaben;
+package aufgaben.aufgabenNico;
 
 /**
  * AE15_learn
@@ -16,8 +16,8 @@ public class AE15_learn {
         int counterAb = 0;
         int counterAa = 0;
 
-        while(i < laenge) {
-            if (i+1 < laenge) {
+        while (i < laenge) {
+            if (i + 1 < laenge) {
                 if (zeichenkette.charAt(i) == 'A' && zeichenkette.charAt(i + 1) == 'A') {
                     counterAA++;
                 }
@@ -28,7 +28,7 @@ public class AE15_learn {
                     counterAa++;
                 }
             }
-                i++;
+            i++;
         }
         System.out.println("Die Buchstaben 'AA' kommen " + counterAA + " mal vor.");
         System.out.println("Die Buchstaben 'Ab' kommen " + counterAb + " mal vor.");

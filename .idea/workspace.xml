@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/AE15_learn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprachkern/Schleifenarten.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Application.Monitor.executor": "Run",
     "Application.Provision.executor": "Run",
     "Application.Schleifen.executor": "Run",
+    "Application.Schleifenarten.executor": "Run",
     "Application.TernaererOperator.executor": "Run",
     "Application.TypenKonvertierung.executor": "Run",
     "Application.VariablenUndDatenTypen.executor": "Run",
@@ -106,20 +107,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AE15_learn">
-    <configuration name="A12_kompletteEinmaleins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A12_kompletteEinmaleins" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Schleifenarten">
     <configuration name="A13_Rueckwaerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A13_Rueckwaerts" />
       <module name="java_basic" />
@@ -159,6 +147,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Schleifenarten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sprachkern.Schleifenarten" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sprachkern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zeichenketten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zeichenketten.Zeichenketten" />
       <module name="java_basic" />
@@ -174,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Schleifenarten" />
         <item itemvalue="Application.AE15_learn" />
         <item itemvalue="Application.A14_UmlauteZaehlen" />
         <item itemvalue="Application.A13_Rueckwaerts" />
         <item itemvalue="Application.Zeichenketten" />
-        <item itemvalue="Application.A12_kompletteEinmaleins" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +213,7 @@
       <workItem from="1723486503544" duration="533000" />
       <workItem from="1723532019286" duration="23717000" />
       <workItem from="1723616332859" duration="18501000" />
-      <workItem from="1723703749954" duration="6304000" />
+      <workItem from="1723703749954" duration="9010000" />
     </task>
     <servers />
   </component>

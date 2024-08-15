@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/AE16_GeradeZiffern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A15_Zwischenraueme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A16_JedenZweiten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A17_TuerenVonDurin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A12_kompletteEinmaleins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A12_kompletteEinmaleins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/AE15_learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/AE15_learn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,9 @@
     "Application.A12_kompletteEinmaleins.executor": "Run",
     "Application.A13_Rueckwaerts.executor": "Run",
     "Application.A14_UmlauteZaehlen.executor": "Run",
+    "Application.A15_Zwischenraueme.executor": "Run",
+    "Application.A16_JedenZweiten.executor": "Run",
+    "Application.A17_TuerenVonDurin.executor": "Run",
     "Application.AE15_learn.executor": "Run",
     "Application.AE16_GeradeZiffern.executor": "Run",
     "Application.Fallauswahl.executor": "Run",
@@ -110,7 +113,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A12_kompletteEinmaleins">
+  <component name="RunManager" selected="Application.A15_Zwischenraueme">
     <configuration name="A12_kompletteEinmaleins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A12_kompletteEinmaleins" />
       <module name="java_basic" />
@@ -124,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A14_UmlauteZaehlen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A14_UmlauteZaehlen" />
+    <configuration name="A15_Zwischenraueme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A15_Zwischenraueme" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.aufgabenNico.*" />
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +140,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AE15_learn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenNico.AE15_learn" />
+    <configuration name="A16_JedenZweiten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A16_JedenZweiten" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.aufgabenNico.*" />
+          <option name="PATTERN" value="aufgaben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A17_TuerenVonDurin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A17_TuerenVonDurin" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,26 +179,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Schleifenarten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.Schleifenarten" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A15_Zwischenraueme" />
+        <item itemvalue="Application.A17_TuerenVonDurin" />
+        <item itemvalue="Application.A16_JedenZweiten" />
         <item itemvalue="Application.A12_kompletteEinmaleins" />
         <item itemvalue="Application.AE16_GeradeZiffern" />
-        <item itemvalue="Application.Schleifenarten" />
-        <item itemvalue="Application.AE15_learn" />
-        <item itemvalue="Application.A14_UmlauteZaehlen" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +219,7 @@
       <workItem from="1723486503544" duration="533000" />
       <workItem from="1723532019286" duration="23717000" />
       <workItem from="1723616332859" duration="18501000" />
-      <workItem from="1723703749954" duration="16441000" />
+      <workItem from="1723703749954" duration="23595000" />
     </task>
     <servers />
   </component>

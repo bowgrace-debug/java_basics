@@ -80,5 +80,17 @@ public class A17_TuerenVonDurin {
             }
         }
         System.out.println(output);
+
+        System.out.println();
+        System.out.println("============================");
+        System.out.println();
+
+        for( i = 0; i < durin.length(); i++) {
+            char zeichen = durin.charAt(i);
+            if ( i == 0 || durin.charAt(i -1) == ' ') {
+                zeichen -= 32;
+            }
+            System.out.print(zeichen);
+        }
     }
 }

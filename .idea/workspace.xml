@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/AE06_LaengstesWort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A15_Zwischenraueme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A15_Zwischenraueme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/AE06_LaengstesWort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/AE06_LaengstesWort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +221,7 @@
       <workItem from="1723532019286" duration="23717000" />
       <workItem from="1723616332859" duration="18501000" />
       <workItem from="1723703749954" duration="32376000" />
-      <workItem from="1723790171240" duration="1519000" />
+      <workItem from="1723790171240" duration="2197000" />
     </task>
     <servers />
   </component>

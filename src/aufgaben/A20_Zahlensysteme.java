@@ -12,11 +12,13 @@ public class A20_Zahlensysteme {
 
         // Dezimal zu Binär
         int x = 211;
+        String ausgabe = "";
 
         while (x > 0) {
-            System.out.print(x % 2);
+            ausgabe = (x % 2) + ausgabe;
             x /= 2;
         }
+        System.out.println(ausgabe);
 
         System.out.println();
         System.out.println("===============================");

@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sprachkern/SchleifenBeispielKennwort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A18_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/anrede.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/einmalEins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/kraftsoffverbrauch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/provision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/rechteck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/schaltjahr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/seite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/sekunden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/versandkostenberechnung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/zahlenreihen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A10_ErmittlungDerAnrede.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A10_ErmittlungDerAnrede.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +56,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.A01_Sekunden.executor": "Run",
+    "Application.A04_Speicherbedarf_01.executor": "Run",
     "Application.A05_SpeicherbedarfDINA4Seite.executor": "Run",
+    "Application.A05_Speicherbedarf_02.executor": "Run",
     "Application.A06_OlivenoelTank.executor": "Run",
     "Application.A07_Versandkostenberechnung.executor": "Run",
     "Application.A07_VersandkostenberechnungKopie.executor": "Run",
@@ -60,6 +74,7 @@
     "Application.A15_Zwischenraueme.executor": "Run",
     "Application.A16_JedenZweiten.executor": "Run",
     "Application.A17_TuerenVonDurin.executor": "Run",
+    "Application.A18_Palindrome.executor": "Run",
     "Application.AE04_Index_A.executor": "Run",
     "Application.AE05_Einwohnerzahlen.executor": "Run",
     "Application.AE06_LaengstesWort.executor": "Run",
@@ -80,9 +95,19 @@
     "Application.Verzweigungen.executor": "Run",
     "Application.Zeichenketten.executor": "Run",
     "Application.ZeichenkettenVergleiche.executor": "Run",
+    "Application.anrede.executor": "Run",
     "Application.din_a4seite.executor": "Run",
+    "Application.einmalEins.executor": "Run",
+    "Application.kraftsoffverbrauch.executor": "Run",
+    "Application.monitor.executor": "Run",
     "Application.olivenoeltank.executor": "Run",
+    "Application.provision.executor": "Run",
+    "Application.rechteck.executor": "Run",
+    "Application.schaltjahr.executor": "Run",
+    "Application.seite.executor": "Run",
     "Application.sekunden.executor": "Run",
+    "Application.versandkostenberechnung.executor": "Run",
+    "Application.zahlenreihen.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -92,7 +117,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src",
+    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -118,9 +143,9 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SchleifenBeispielKennwort">
-    <configuration name="A17_TuerenVonDurin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A17_TuerenVonDurin" />
+  <component name="RunManager" selected="Application.A18_Palindrome">
+    <configuration name="A11_Zahlenreihen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A11_Zahlenreihen" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
@@ -132,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchleifenBeispielKennwort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.SchleifenBeispielKennwort" />
+    <configuration name="A18_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A18_Palindrome" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Schleifensteuerung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.Schleifensteuerung" />
+    <configuration name="A18_Palindrome2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A18_Palindrome2" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenNico.Test" />
+    <configuration name="einmalEins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgaben_wiederholungen.einmalEins" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.aufgabenNico.*" />
+          <option name="PATTERN" value="aufgaben.aufgaben_wiederholungen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZeichenkettenVergleiche" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zeichenketten.ZeichenkettenVergleiche" />
+    <configuration name="zahlenreihen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgaben_wiederholungen.zahlenreihen" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zeichenketten.*" />
+          <option name="PATTERN" value="aufgaben.aufgaben_wiederholungen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SchleifenBeispielKennwort" />
-        <item itemvalue="Application.ZeichenkettenVergleiche" />
-        <item itemvalue="Application.Schleifensteuerung" />
-        <item itemvalue="Application.A17_TuerenVonDurin" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.A18_Palindrome" />
+        <item itemvalue="Application.einmalEins" />
+        <item itemvalue="Application.A18_Palindrome2" />
+        <item itemvalue="Application.zahlenreihen" />
+        <item itemvalue="Application.A11_Zahlenreihen" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +250,8 @@
       <workItem from="1723532019286" duration="23717000" />
       <workItem from="1723616332859" duration="18501000" />
       <workItem from="1723703749954" duration="32376000" />
-      <workItem from="1723790171240" duration="10977000" />
+      <workItem from="1723790171240" duration="59465000" />
+      <workItem from="1724049641817" duration="1065000" />
     </task>
     <servers />
   </component>

@@ -13,7 +13,7 @@ public class A10_ErmittlungDerAnrede {
         // Eingabe
         String nachname = "Stolle";
         String vorname = "Maximilian";
-        String titel = "";
+        String titel = "Dr";
         int alterInJahren = 24;
         boolean geschlecht = false; // true für weiblich, false für männlich
 
@@ -22,18 +22,19 @@ public class A10_ErmittlungDerAnrede {
         // Verarbeitung
         if (alterInJahren < 18) {
             begruessung = "Hallo " + vorname;
+            System.out.println(begruessung);
         }
         else {
             if (geschlecht == true) {
-                begruessung = "Sehr geehrte Frau " + " " + nachname;
+                begruessung = "Sehr geehrte Frau ";
             }
             else {
-                begruessung = "Sehr geehrter Herr" + " " + nachname;
+                begruessung = "Sehr geehrter Herr " ;
             }
             if (titel != "" && titel != "/") {
-                begruessung = begruessung + " " + titel + " " + nachname;
+                begruessung = begruessung +  titel;
             }
         }
-        System.out.println(begruessung);
+        System.out.println(begruessung + " " + nachname);
     }
 }

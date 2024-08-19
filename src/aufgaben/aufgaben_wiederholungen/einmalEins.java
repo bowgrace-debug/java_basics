@@ -36,14 +36,23 @@ public class einmalEins {
         System.out.println();
 
         // Matrix
-        i = 0;
+        i = 1;
+        System.out.printf("\t");
         while (i <= 10) {
-            zahl = 0;
+            System.out.printf("%4d", i);
+            i++;
+        }
+        i = 1;
+        System.out.println();
+        while (i <= 10) {
+            zahl = 1;
+            System.out.printf("%4d",i);
             while (zahl <= 10) {
                 int ergebnis = i * zahl;
                 System.out.printf("%4d",ergebnis);
                 zahl++;
             }
+            System.out.println();
             i++;
         }
     }

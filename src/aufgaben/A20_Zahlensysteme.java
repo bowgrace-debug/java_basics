@@ -10,7 +10,7 @@ package aufgaben;
 public class A20_Zahlensysteme {
     public static void main(String[] args) {
 
-        // Dezimal zu Binär´-------------------
+        // Dezimal zu Binär (Variante 1)
         int x = 211;
         String ausgabe = "";
 
@@ -19,6 +19,23 @@ public class A20_Zahlensysteme {
             x /= 2;
         }
         System.out.println(ausgabe);
+
+        System.out.println();
+        System.out.println("===============================");
+        System.out.println();
+
+        // Dezimal zu Binär (Variante 2) funktioniert auch mit null
+        // EIngabe
+        int decimal = 211;
+        String binary = "";
+
+        // Verarbeitung
+        do {
+            int remainder = decimal % 2;
+            binary = remainder + binary;
+            decimal = decimal / 2;
+        } while (decimal > 0);
+        System.out.println(binary);
 
         System.out.println();
         System.out.println("===============================");

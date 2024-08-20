@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A21_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprachkern/ArraysFelder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aufgaben/A20_Zahlensysteme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A20_Zahlensysteme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sonstiges/Zwischenraueme_Pseudocode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sonstiges/Zwischenraueme_Pseudocode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +66,13 @@
     "Application.A17_TuerenVonDurin.executor": "Run",
     "Application.A18_Palindrome.executor": "Run",
     "Application.A20_Zahlensysteme.executor": "Run",
+    "Application.A21_Arrays.executor": "Run",
     "Application.AE04_Index_A.executor": "Run",
     "Application.AE05_Einwohnerzahlen.executor": "Run",
     "Application.AE06_LaengstesWort.executor": "Run",
     "Application.AE15_learn.executor": "Run",
     "Application.AE16_GeradeZiffern.executor": "Run",
+    "Application.ArraysFelder.executor": "Run",
     "Application.Fallauswahl.executor": "Run",
     "Application.Mathe.executor": "Run",
     "Application.Monitor.executor": "Run",
@@ -115,7 +118,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/java_projects/java_basic/src/Main.java",
-    "settings.editor.selected.configurable": "com.codeium.AppSettingsConfigurable",
+    "settings.editor.selected.configurable": "configurable.group.tools",
     "show.migrate.to.gradle.popup": "false",
     "two.files.diff.last.used.file": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben/A07_Versandkostenberechnung.java",
     "vue.rearranger.settings.migration": "true"
@@ -134,22 +137,9 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A20_Zahlensysteme">
+  <component name="RunManager" selected="Application.A21_Arrays">
     <configuration name="A11_Zahlenreihen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A11_Zahlenreihen" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A18_WortPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A18_WortPalindrome" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
@@ -174,6 +164,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="A21_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A21_Arrays" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysFelder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sprachkern.ArraysFelder" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sprachkern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Wrapperklassen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sprachkern.Wrapperklassen" />
       <module name="java_basic" />
@@ -187,26 +203,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="einmalEins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgaben_wiederholungen.einmalEins" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.aufgaben_wiederholungen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A21_Arrays" />
+        <item itemvalue="Application.ArraysFelder" />
         <item itemvalue="Application.A20_Zahlensysteme" />
         <item itemvalue="Application.A11_Zahlenreihen" />
         <item itemvalue="Application.Wrapperklassen" />
-        <item itemvalue="Application.einmalEins" />
-        <item itemvalue="Application.A18_WortPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +247,8 @@
       <workItem from="1723790171240" duration="59465000" />
       <workItem from="1724049641817" duration="3018000" />
       <workItem from="1724052895383" duration="3626000" />
-      <workItem from="1724057858299" duration="18516000" />
+      <workItem from="1724057858299" duration="24006000" />
+      <workItem from="1724144517335" duration="8185000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,170 @@
+============================================================
+  FIAE12 Programmierung mit Java
+
+  S T I C H W O R T L I S T E  (ohne Gewähr!)
+
+  Siehe auch die Kommentare in den jeweiligen Klassen!
+
+  Stand: 06.08.2024
+============================================================
+  Lehrmittel
+------------------------------------------------------------
+- Java 15 – Grundlagen Programmierung (https://shop.herdt.com/de/product/JAV15)
+- Einführung in das Programmieren mit Java 13 (https://www.uni-trier.de/index.php?id=22787)
+- Rheinwerk <openbook> (https://www.rheinwerk-verlag.de/openbook/)
+- Java ist auch eine Insel (http://openbook.rheinwerk-verlag.de/javainsel)
+- Java SE 8 Standard-Bibliothek (http://openbook.rheinwerk-verlag.de/java8/)
+- W3Schools Java Tutorial (https://www.w3schools.com/java/)
+- Highscore (http://www.highscore.de/)
+
+------------------------------------------------------------
+  Allgemein
+------------------------------------------------------------
+- Programmiersprache (Programming language)
+    Eine formale, logische und menschen verständliche Sprache, mit welcher der
+    Software Entwickler Programmabläufe definieren kann, welche letztlich von
+    einem Computer ausgeführt werden.
+
+    Merke: Der Prozessor kann nur Maschinencode (d.h. Folgen von Bits) ausführen.
+    Die menschen verständliche Programmiersprache dient also hauptsächlich dazu,
+    dem Menschen ein effektiveres und effizienteres Programmieren zu ermöglichen.
+
+- Maschinensprache (Machine code)
+- Assembler(sprache) (Assembly language)
+    Binärcodes durch Abkürzungen (Mnemonics) ersetzen
+    (z.B. 10110111 durch ADD)
+- Höhere Programmiersprachen (C++, Java, PHP, Javascript, ...)
+
+- Übersetzung von Programmcode in Maschinencode
+    - Compiler (Einmalige Übersetzung)
+    - Interpreter (Übersetzung zur Laufzeit)
+
+- Programmierung (Coding)
+    Die Tätigkeit, ein Computerprogramm zu erstellen, d.h. Umsetzung eines
+    Softwareentwurfs in Quellcode.
+
+    Alternativ: Die Tätigkeit, einem dummen, aber außerordentlich fleißigen
+    Computer zu erklären, was dieser zu tun hat mithilfe einer
+    Programmiersprache.
+
+- Quellcode/Quelltext (Source/Source Code):
+    Der für den Menschen lesbare, in einer Programmiersprache geschriebene Text
+    eines Computerprogramms. Der Quelltext eines Programms kann auf mehrere
+    Teile/Dateien verteilt sein.
+
+- Syntax / Semantik
+    Die Sohne ist gelb.   => Syntaxfehler!
+    Die Sonne ist blau.   => Semantischer Fehler!
+
+- Algorithmus
+    Ein Algorithmus ist eine eindeutige Handlungsvorschrift zur Lösung eines Problems
+
+- Integrierte Entwicklungsumgebung (IDE, integrated development environment)
+    Software für die Anwendungsentwicklung, die gängige Entwicklertools (Editor, Debugger, ...)
+    in einer zentralen grafischen Oberfläche vereint.
+
+- IntelliJ IDEA
+    - Settings
+	    - Rechtschreibprüfung (Spelling)
+		    Settings | Editor | Natural Languages | +
+	    - Vorlage anpassen
+		    Settings | Editor | File and Code Templates | Class
+
+------------------------------------------------------------
+  Softwarequalität
+------------------------------------------------------------
+- EVA-Prinzip (Eingabe, Verarbeitung und Ausgabe)
+- Clean Code
+    Als "sauber" bezeichnet man Quelltexte, die intuitiv verständlich sind.
+    Als intuitiv verständlich gilt alles, was mit wenig Aufwand und
+    in kurzer Zeit richtig verstanden werden kann.
+    Vorteile von Clean Code sind stabilere und effizient wartbarere Programme,
+    d.h. kürzere Entwicklungszeiten bei Funktionserweiterung und Fehlerbehebungen.
+
+    - Coding Conventions ("Programmierstil")
+        - Quelltextformatierung
+        - Namenskonvention (Naming convention)
+            - sprechende Namen
+            - Klassen: UpperCamelCase
+            - Variable: lowerCamelCase
+            - Konstanten: UPPERCASE (Trennungen durch _)
+            - Packages: lowercase (Trennungen durch _)
+    - Prinzipien
+        - KISS, Keep it simple, stupid
+            Eine möglichst einfache Lösung anstreben
+        - DRY, Don’t repeat yourself
+            Redundanz vermeiden
+
+- Magische Zahl (magic number)
+    Ein im Quellcode auftauchender Wert (auch englisch "hard coded value" genannt),
+    dessen Bedeutung sich nicht unmittelbar erkennen lässt – seine Bedeutung ist
+    somit "magisch".
+    Derartige Magische Zahlen sind zu vermeiden und durch gut benannte Konstantendefinitionen
+    zu ersetzen, deren Namen, Bedeutung und Herkunft klar angegeben ist.
+- Code-Smell
+    Code-Smells bezeichnen funktionierenden, aber schlecht strukturierten Quellcode.
+    Sie deklarieren Konstrukte in der Programmierung, die ein Refactoring nahelegen.
+    Im übertragenen Sinne handelt es sich um übelriechenden Code.
+- Refactoring (auch Refaktorisierung, Refaktorierung oder Restrukturierung)
+    bezeichnet in der Software-Entwicklung die manuelle oder automatisierte
+    Strukturverbesserung von Quelltexten unter Beibehaltung des beobachtbaren Programmverhaltens.
+    Dabei sollen Lesbarkeit, Verständlichkeit, Wartbarkeit und Erweiterbarkeit verbessert werden,
+    mit dem Ziel, den jeweiligen Aufwand für Fehleranalyse und funktionale Erweiterungen
+    deutlich zu senken.
+- Codereview
+    Ein Code Review ist eine systematische Untersuchung von Quellcode mit dem Ziel,
+    Fehler und Mängel im Code zu finden und/oder die Qualität des Codes und
+    damit der Software zu verbessern.
+
+------------------------------------------------------------
+  Java
+------------------------------------------------------------
+- Allgemein
+    - Java Standard Edition (SE)
+    - SDK (Standard Development Kit)
+    - JDK (Java Development Kit)
+        - Compiler (javac.exe)
+            - erzeugt Bytecode (.class)
+        - Interpreter (java.exe)
+        - Debugger
+        - u.a.
+    - JRE (Java Runtime Environment)
+        - Java Virtual Machine (JVM)
+        - API
+        - u.a.
+
+- Sprachkern
+    - Kommentare
+        - einzeilig //
+        - mehrzeilig /*  */
+        - Javadoc  /**   */
+    - Anweisungsblock { }
+    - Bezeichner (Identifier)
+        Name/Bezeichnung von irgendetwas (Datei, Klasse, Package, etc)
+    - Datentypen (Datatypes, Types)
+        - statisch typisiert
+            Der Datentyp wird während der Kompilierung festgelegt.
+        - streng/stark typisiert
+        - primitive Datentypen
+            byte, short, int, long, char, float, double, boolean
+        - Rechengenauigkeit von Fließkommazahlen (IEEE 754)
+        - Literale
+    - Variablen
+        - Deklaration und Initialisierung
+        - Konstanten (final)
+        - Scope (Gültigkeitsbereich, Sichtbarkeit)
+    - Operatoren
+        - Arithmetische Operatoren   + - * /  % (Modulo)
+        - (Pre/Post)Inkrement/Dekrement-Operator  ++ --
+        - Zusammengesetzte Operatoren += -= *= /= %=
+        - Konkatenation + (Verketten von Strings)
+        - Vergleichsoperatoren == != < <= > >=
+        - Logische Operatoren && || ! ^
+            - Short Circuit
+        - Ternärer Operator (Konditionaloperator, bedingte Zuweisung) ?:
+    - Kontrollstrukturen (Strukturierte Programmierung)
+        - Verzweigungen (if)
+        - Fallauswahl (switch)
+        - Wiederholungen (Iterationen, Schleifen, Loop)
+            - while, do-while, for
+            - Kopf-/Fußgesteuert

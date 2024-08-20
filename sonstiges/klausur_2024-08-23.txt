@@ -1,0 +1,39 @@
+------------------------------------------------------------
+    Klausur Fr. 23.08.2024
+------------------------------------------------------------
+- Schreibtischtests
+    - Boolsche Ausdrücke
+    - Verzweigungen (inkl. switch und ?:)
+    - Schleifen
+
+- Syntax Check
+    Beispiel:
+        Der folgende Quelltextauszug enthält genau 3 rein
+        syntaktische Fehler (keine semantischen):
+  			25:  int b = 3
+  			26:  if(b =< 5) {
+  			27:	     system.out.println("ok");
+  			28:  }
+  - Fachbegriffe
+      Beispiel:
+          Bezeichnet ein Programm zur Bearbeitung und Speicherung von Textdateien.
+          Antwort: Editor
+
+- Single Choice
+    Beispiel:
+        Bei welchem der folgenden Literale handelt es sich um eine Zeichenkette?
+			a) 1234
+			b) 0x1234
+			c) "1234"
+			d) 12.34
+			e) 01234
+
+- Lücken(quell)text
+    Beispiel:
+        Fülle die Lücken so, dass die Zahlen von 1 bis 5 ausgeben werden:
+
+        int ___i=1_____;
+        while (___i<=5_______) {
+            System.out.println(i);
+            ___i++____;
+        }

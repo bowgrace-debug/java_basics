@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="" />
+    <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sonstiges/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +135,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A21_Arrays">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="A11_Zahlenreihen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A11_Zahlenreihen" />
       <module name="java_basic" />
@@ -185,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wrapperklassen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.Wrapperklassen" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sonstiges.Test" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
+          <option name="PATTERN" value="sonstiges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.A21_Arrays" />
         <item itemvalue="Application.ArraysFelder" />
         <item itemvalue="Application.A20_Zahlensysteme" />
         <item itemvalue="Application.A11_Zahlenreihen" />
-        <item itemvalue="Application.Wrapperklassen" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +247,8 @@
       <workItem from="1724052895383" duration="3626000" />
       <workItem from="1724057858299" duration="24006000" />
       <workItem from="1724144517335" duration="8234000" />
-      <workItem from="1724159690124" duration="3439000" />
+      <workItem from="1724159690124" duration="3781000" />
+      <workItem from="1724181442996" duration="916000" />
     </task>
     <servers />
   </component>

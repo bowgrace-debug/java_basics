@@ -10,7 +10,7 @@ package aufgaben;
 public class A20_Zahlensysteme {
     public static void main(String[] args) {
 
-        // Dezimal zu Binär
+        // Dezimal zu Binär´-------------------
         int x = 211;
         String ausgabe = "";
 
@@ -34,9 +34,6 @@ public class A20_Zahlensysteme {
 
         for (int i = laenge; i >= 0; i -=1) {
                  value = Character.getNumericValue(zahl.charAt(i));
-
-//                 1 = 1 * 1
-//            2 = 1 * 2
 
             ergebnis += value *Math.pow(2,hoch);
             hoch++;

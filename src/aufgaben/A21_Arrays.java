@@ -13,7 +13,7 @@ import java.util.IllegalFormatCodePointException;
 public class A21_Arrays {
     public static void main(String[] args) {
 
-        // Aufgabe 1
+        // Aufgabe 1 Summe berechnen mit "for"
 
         int[] liste = {11, 22, 33, 44, 55, 66, 77, 88, 99, 0};
         int zaehler = 0;
@@ -26,6 +26,7 @@ public class A21_Arrays {
         System.out.println();
         System.out.println("====================");
 
+        // Lösung 2 mit "for each"
         zaehler = 0;
         for (int i : liste) {
             zaehler += i;
@@ -35,7 +36,7 @@ public class A21_Arrays {
         System.out.println();
         System.out.println("====================");
 
-        // Aufgabe 2
+        // Aufgabe 2 Maximum und Minimum
 
         int min = liste[0];
         int max = 0;
@@ -55,7 +56,7 @@ public class A21_Arrays {
         System.out.println();
         System.out.println("====================");
 
-        // Aufgabe 3
+        // Aufgabe 3 Suche
         String suche = "Sonntag";
 
         String[] wochentage = {"Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"};

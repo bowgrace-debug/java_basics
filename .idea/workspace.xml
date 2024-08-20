@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A21_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A21_Arrays.java" afterDir="false" />
-    </list>
+    <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,7 +244,7 @@
       <workItem from="1724052895383" duration="3626000" />
       <workItem from="1724057858299" duration="24006000" />
       <workItem from="1724144517335" duration="8234000" />
-      <workItem from="1724159690124" duration="2525000" />
+      <workItem from="1724159690124" duration="3439000" />
     </task>
     <servers />
   </component>

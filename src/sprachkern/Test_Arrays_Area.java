@@ -11,7 +11,7 @@ public class Test_Arrays_Area {
     public static void main(String[] args) {
 
         String[] kundenListe = {"Jan", "Moritz", "Max", "Paul", "Josephine", "Marie", "Tom"};
-        System.out.println(kundenListe[1]);
+        System.out.println(kundenListe[5]);
 
         for (int i = 0; i < kundenListe.length; i++) {
             System.out.println(kundenListe[i]);

@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A22_Umgedreht.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A23_Prozente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A24_Balkendiagramm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A21_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A21_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sprachkern/Array_Erweiterte_for_Schleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/Arrays_Erweiterte_for_Schleife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A13_Rueckwaerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A13_Rueckwaerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sprachkern/Test_Arrays_Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/Test_Arrays_Area.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +69,9 @@
     "Application.A18_Palindrome.executor": "Run",
     "Application.A20_Zahlensysteme.executor": "Run",
     "Application.A21_Arrays.executor": "Run",
+    "Application.A22_Umgedreht.executor": "Run",
+    "Application.A23_Prozente.executor": "Run",
+    "Application.A24_Balkendiagramm.executor": "Run",
     "Application.AE04_Index_A.executor": "Run",
     "Application.AE05_Einwohnerzahlen.executor": "Run",
     "Application.AE06_LaengstesWort.executor": "Run",
@@ -119,7 +125,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/java_projects/java_basic/src/Main.java",
-    "settings.editor.selected.configurable": "configurable.group.tools",
+    "settings.editor.selected.configurable": "preferences.general",
     "show.migrate.to.gradle.popup": "false",
     "two.files.diff.last.used.file": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben/A07_Versandkostenberechnung.java",
     "vue.rearranger.settings.migration": "true"
@@ -138,7 +144,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A21_Arrays">
+  <component name="RunManager" selected="Application.A23_Prozente">
     <configuration name="A21_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A21_Arrays" />
       <module name="java_basic" />
@@ -152,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays2_0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Arrays2_0" />
+    <configuration name="A22_Umgedreht" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A22_Umgedreht" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysFelder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ArraysFelder" />
+    <configuration name="A23_Prozente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A23_Prozente" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays_Erweiterte_for_Schleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.Arrays_Erweiterte_for_Schleife" />
+    <configuration name="A24_Balkendiagramm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A24_Balkendiagramm" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="aufgaben.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +198,11 @@
       </method>
     </configuration>
     <configuration name="Test_Arrays_Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Test_Arrays_Area" />
+      <option name="MAIN_CLASS_NAME" value="sprachkern.Test_Arrays_Area" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="sprachkern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A21_Arrays" />
-        <item itemvalue="Application.ArraysFelder" />
+        <item itemvalue="Application.A23_Prozente" />
+        <item itemvalue="Application.A24_Balkendiagramm" />
+        <item itemvalue="Application.A22_Umgedreht" />
         <item itemvalue="Application.Test_Arrays_Area" />
-        <item itemvalue="Application.Arrays_Erweiterte_for_Schleife" />
-        <item itemvalue="Application.Arrays2_0" />
+        <item itemvalue="Application.A21_Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +258,7 @@
       <workItem from="1724144517335" duration="8234000" />
       <workItem from="1724159690124" duration="3781000" />
       <workItem from="1724181442996" duration="1245000" />
-      <workItem from="1724182710365" duration="8234000" />
+      <workItem from="1724182710365" duration="25736000" />
     </task>
     <servers />
   </component>

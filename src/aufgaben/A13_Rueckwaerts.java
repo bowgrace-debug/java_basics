@@ -25,7 +25,7 @@ public class A13_Rueckwaerts {
 
         String name = "Maximilian Stolle";
         int stellenAlsZahl = name.length();
-        int index = 0;;
+        int index = 0;
         while(index < 17) {
             System.out.println(name.charAt(index));
             index++;

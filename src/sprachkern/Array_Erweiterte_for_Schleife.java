@@ -1,13 +1,13 @@
 package sprachkern;
 
 /**
- * Erweiterte_forschleife
+ * Array_Erweiterte_for_schleife
  * <p>
  *
  * @author Maximilian Stolle
  * @version 20.08.2024
  */
-public class Erweiterte_forschleife {
+public class Array_Erweiterte_for_Schleife {
     public static void main(String[] args) {
 
         String[] names = {"Cora", "Chris"};

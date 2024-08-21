@@ -1,4 +1,4 @@
-package sonstiges;
+package Arrays;
 
 /**
  * Test_Arrays_Area

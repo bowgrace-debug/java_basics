@@ -1,4 +1,4 @@
-package sprachkern;
+package Arrays;
 
 /**
  * Test

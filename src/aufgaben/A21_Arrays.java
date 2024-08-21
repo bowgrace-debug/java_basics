@@ -36,7 +36,7 @@ public class A21_Arrays {
         System.out.println();
         System.out.println("====================");
 
-        // Aufgabe 2 Maximum und Minimum
+        // Aufgabe 2 Maximum und Minimum mit einer for schleife
 
         int min = liste[0];
         int max = 0;
@@ -56,15 +56,49 @@ public class A21_Arrays {
         System.out.println();
         System.out.println("====================");
 
-        // Aufgabe 3 Suche
-        String suche = "Sonntag";
+        // Aufgabe 2 mit einer erweiterten for schleife
+
+        int[] listeminus = {-11, 22, -33, -44, 55, -66, 77, -88, -99, 0};
+
+        int mini = Integer.MAX_VALUE;
+        int maxi = Integer.MIN_VALUE ;
+        for (int zahl : listeminus) {
+            if (zahl > maxi) {
+                maxi = zahl;
+            }
+            if (zahl < mini) {
+                mini = zahl;
+            }
+        }
+        System.out.println(maxi + " ist die größte Zahl");
+        System.out.println(mini + " ist die kleinste Zahl");
+
+        System.out.println();
+        System.out.println("====================");
+
+        // Aufgabe 3 Suche Lösung 1
+        String suche = "montag";
 
         String[] wochentage = {"Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"};
 
         for (String finder : wochentage) {
-            if (finder == suche) {
+            if (finder.equalsIgnoreCase(suche)) {
                 System.out.println(finder);
             }
         }
+
+        System.out.println();
+        System.out.println("====================");
+
+        // Aufgabe 3 Suche Lösung 2
+
+        boolean gefunden = false;
+        i = 0;
+        String gesucht = "Montag";
+        while( i < wochentage.length && !gefunden) {
+            gefunden = wochentage[i].equalsIgnoreCase(gesucht);
+            i++;
+        }
+        System.out.println(gefunden);
     }
 }

@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sonstiges/Test_Arrays_Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Test_Arrays_Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sprachkern/Arrays2_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Arrays2_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sprachkern/ArraysFelder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ArraysFelder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sprachkern/Erweiterte_forschleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/Array_Erweiterte_for_Schleife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A21_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A21_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sprachkern/Array_Erweiterte_for_Schleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/Arrays_Erweiterte_for_Schleife.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,26 +138,13 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test_Arrays_Area">
+  <component name="RunManager" selected="Application.A21_Arrays">
     <configuration name="A21_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A21_Arrays" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aufgaben.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array_Erweiterte_for_Schleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.Array_Erweiterte_for_Schleife" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,6 +178,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Arrays_Erweiterte_for_Schleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sprachkern.Arrays_Erweiterte_for_Schleife" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test_Arrays_Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Test_Arrays_Area" />
       <module name="java_basic" />
@@ -208,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test_Arrays_Area" />
-        <item itemvalue="Application.Array_Erweiterte_for_Schleife" />
-        <item itemvalue="Application.Arrays2_0" />
         <item itemvalue="Application.A21_Arrays" />
         <item itemvalue="Application.ArraysFelder" />
+        <item itemvalue="Application.Test_Arrays_Area" />
+        <item itemvalue="Application.Arrays_Erweiterte_for_Schleife" />
+        <item itemvalue="Application.Arrays2_0" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +252,7 @@
       <workItem from="1724144517335" duration="8234000" />
       <workItem from="1724159690124" duration="3781000" />
       <workItem from="1724181442996" duration="1245000" />
-      <workItem from="1724182710365" duration="5053000" />
+      <workItem from="1724182710365" duration="8234000" />
     </task>
     <servers />
   </component>

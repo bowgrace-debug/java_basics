@@ -1,4 +1,4 @@
-package Arrays;
+package sprachkern;
 
 /**
  * Test_Arrays_Area

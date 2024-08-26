@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A26_Tabellenkalkulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A26_Tabellenkalkulation.java" afterDir="false" />
-    </list>
+    <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,7 +266,7 @@
       <workItem from="1724182710365" duration="26073000" />
       <workItem from="1724257712162" duration="15934000" />
       <workItem from="1724511026405" duration="20653000" />
-      <workItem from="1724654021291" duration="11478000" />
+      <workItem from="1724654021291" duration="12178000" />
     </task>
     <servers />
   </component>

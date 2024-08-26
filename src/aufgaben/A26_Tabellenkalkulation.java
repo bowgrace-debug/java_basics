@@ -1,5 +1,7 @@
 package aufgaben;
 
+import java.util.Arrays;
+
 /**
  * A26_Tabellenkalkulation
  * <p>
@@ -59,17 +61,15 @@ public class A26_Tabellenkalkulation {
             System.out.printf(" = %6.2f ", summe);
             System.out.println();
         }
-        double spalte0 = doubleFeld[0][0] + doubleFeld[1][0] + doubleFeld[2][0];
-        double spalte1 = doubleFeld[0][1] + doubleFeld[1][1] + doubleFeld[2][1];
-        double spalte2 = doubleFeld[0][2] + doubleFeld[1][2] + doubleFeld[2][2];
-        System.out.printf(" %6.2f  %6.2f  %6.2f ", spalte0, spalte1, spalte2);
+        double [] spalten = {
+                doubleFeld[0][0] + doubleFeld[1][0] + doubleFeld[2][0],
+                doubleFeld[0][1] + doubleFeld[1][1] + doubleFeld[2][1],
+                doubleFeld[0][2] + doubleFeld[1][2] + doubleFeld[2][2]
+        };
+        System.out.printf(" %6.2f %6.2f %6.2f", spalten[0], spalten[1], spalten[2]);
 
         System.out.println();
         System.out.println("==========================================");
-
-        for (int i = 0; i < doubleFeld.length; i++) {
-            // Spalte 0-2 in eine normal for Schleife packen und ausgeben
-        }
 
     }
 }

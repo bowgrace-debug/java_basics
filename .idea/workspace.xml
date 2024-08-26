@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A22_Umgedreht.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A23_Prozente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A24_Balkendiagramm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A25_Klassenspiegel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/balkendiagramm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/jedenzweiten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/prozente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/rueckwaerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/suche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/umgedreht.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/umlaute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/zwischenraeume.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A13_Rueckwaerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A13_Rueckwaerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sprachkern/Test_Arrays_Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprachkern/Test_Arrays_Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A23_Prozente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A23_Prozente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A24_Balkendiagramm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A24_Balkendiagramm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +68,7 @@
     "Application.A10_ErmittlungDerAnrede.executor": "Run",
     "Application.A11_Zahlenreihen.executor": "Run",
     "Application.A12_kompletteEinmaleins.executor": "Run",
-    "Application.A13_Rueckwaerts.executor": "Run",
+    "Application.A13_Rueckwaerts.executor": "Debug",
     "Application.A14_UmlauteZaehlen.executor": "Run",
     "Application.A15_Zwischenraueme.executor": "Run",
     "Application.A16_JedenZweiten.executor": "Run",
@@ -72,6 +79,7 @@
     "Application.A22_Umgedreht.executor": "Run",
     "Application.A23_Prozente.executor": "Run",
     "Application.A24_Balkendiagramm.executor": "Run",
+    "Application.A25_Klassenspiegel.executor": "Run",
     "Application.AE04_Index_A.executor": "Run",
     "Application.AE05_Einwohnerzahlen.executor": "Run",
     "Application.AE06_LaengstesWort.executor": "Run",
@@ -81,6 +89,7 @@
     "Application.Erweiterte_forschleife.executor": "Run",
     "Application.Fallauswahl.executor": "Run",
     "Application.Mathe.executor": "Run",
+    "Application.MinMax.executor": "Run",
     "Application.Monitor.executor": "Run",
     "Application.Provision.executor": "Run",
     "Application.Schleifen.executor": "Run",
@@ -97,18 +106,26 @@
     "Application.Zeichenketten.executor": "Run",
     "Application.ZeichenkettenVergleiche.executor": "Run",
     "Application.anrede.executor": "Run",
+    "Application.balkendiagramm.executor": "Run",
     "Application.din_a4seite.executor": "Run",
     "Application.einmalEins.executor": "Run",
+    "Application.jedenzweiten.executor": "Run",
     "Application.kraftsoffverbrauch.executor": "Run",
     "Application.monitor.executor": "Run",
     "Application.olivenoeltank.executor": "Run",
     "Application.provision.executor": "Run",
+    "Application.prozente.executor": "Run",
     "Application.rechteck.executor": "Run",
+    "Application.rueckwaerts.executor": "Run",
     "Application.schaltjahr.executor": "Run",
     "Application.seite.executor": "Run",
     "Application.sekunden.executor": "Run",
+    "Application.suche.executor": "Run",
+    "Application.umgedreht.executor": "Run",
+    "Application.umlaute.executor": "Run",
     "Application.versandkostenberechnung.executor": "Run",
     "Application.zahlenreihen.executor": "Run",
+    "Application.zwischenraeume.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -144,46 +161,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A23_Prozente">
-    <configuration name="A21_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A21_Arrays" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A22_Umgedreht" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A22_Umgedreht" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A23_Prozente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A23_Prozente" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.balkendiagramm">
     <configuration name="A24_Balkendiagramm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A24_Balkendiagramm" />
       <module name="java_basic" />
@@ -197,12 +175,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_Arrays_Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.Test_Arrays_Area" />
+    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgaben_wiederholungen.MinMax" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
+          <option name="PATTERN" value="aufgaben.aufgaben_wiederholungen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="balkendiagramm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgaben_wiederholungen.balkendiagramm" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.aufgaben_wiederholungen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prozente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgaben_wiederholungen.prozente" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.aufgaben_wiederholungen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="suche" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgaben_wiederholungen.suche" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.aufgaben_wiederholungen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A23_Prozente" />
+        <item itemvalue="Application.balkendiagramm" />
         <item itemvalue="Application.A24_Balkendiagramm" />
-        <item itemvalue="Application.A22_Umgedreht" />
-        <item itemvalue="Application.Test_Arrays_Area" />
-        <item itemvalue="Application.A21_Arrays" />
+        <item itemvalue="Application.prozente" />
+        <item itemvalue="Application.MinMax" />
+        <item itemvalue="Application.suche" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +275,9 @@
       <workItem from="1724144517335" duration="8234000" />
       <workItem from="1724159690124" duration="3781000" />
       <workItem from="1724181442996" duration="1245000" />
-      <workItem from="1724182710365" duration="25736000" />
+      <workItem from="1724182710365" duration="26073000" />
+      <workItem from="1724257712162" duration="15934000" />
+      <workItem from="1724511026405" duration="20653000" />
     </task>
     <servers />
   </component>
@@ -277,6 +296,20 @@
           <url>file://$PROJECT_DIR$/src/sonstiges/Zwischenraueme_Pseudocode.java</url>
           <line>13</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aufgaben/A13_Rueckwaerts.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/aufgaben/A13_Rueckwaerts.java</url>
+          <line>10</line>
+          <properties class="aufgaben.A13_Rueckwaerts" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

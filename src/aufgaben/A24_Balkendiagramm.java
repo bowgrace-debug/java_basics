@@ -12,22 +12,27 @@ public class A24_Balkendiagramm {
 
         int[] balkendiagramm = {23, 4, 20, 45, 100, 68, 123};
         char[] hexcode  = {0x2588, 0x2591, 0x2593, 0x2592};
-        int[] array = new int[balkendiagramm.length];
-        int cnt = 0;
-        int counter = 0;
 
+        int[] array = new int[balkendiagramm.length];
+
+        int cntbalken = 0;
+        int cntHex = 0;
 
         for (int prozent : balkendiagramm) {
             String balken  = "";
-            if (counter == hexcode.length) {
-                counter = 0;
+            if (cntHex == hexcode.length) {
+                cntHex = 0;
             }
-            for (int i = 0; i < balkendiagramm[cnt]; i++) {
-               balken += hexcode[counter];
+            for (int i = 0; i < balkendiagramm[cntbalken]; i++) {
+               balken += hexcode[cntHex];
             }
-            counter++;
-            System.out.println(balken + balkendiagramm[cnt]);
-            cnt++;
+            cntHex++;
+            System.out.println(balken + balkendiagramm[cntbalken] + "%");
+            cntbalken++;
         }
     }
 }
+
+
+// länge das balkens berechnen
+//int barLenght = values[BarIndex] / BAR_LENGHT_DIVISOR;

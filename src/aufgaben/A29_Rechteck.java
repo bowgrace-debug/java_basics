@@ -17,7 +17,7 @@ public class A29_Rechteck {
         double ergebnisumfang = (a + b) + (a + b);
         return ergebnisumfang;
     }
-    static void ausgbe (double flaeche, double umfang) {
+    static void ausgabe (double flaeche, double umfang) {
         System.out.printf("Die Fläche beträgt: %.1f Quadratmeter.\nDer Umfang beträgt: %.1f Meter.", flaeche, umfang);
     }
 
@@ -25,6 +25,6 @@ public class A29_Rechteck {
 
         double flaeche = flaeche(3,4);
         double umfang = umfang(3,4);
-        ausgbe(flaeche, umfang);
+        ausgabe(flaeche, umfang);
     }
 }

@@ -40,9 +40,8 @@ public class A21_Arrays {
 
         int min = liste[0];
         int max = 0;
-        int i = 0;
 
-        for (i = 0; i < liste.length; i++) {
+        for (int i = 0; i < liste.length; i++) {
             if (liste[i] <= min) {
                 min = liste[i];
             }
@@ -62,6 +61,7 @@ public class A21_Arrays {
 
         int mini = Integer.MAX_VALUE;
         int maxi = Integer.MIN_VALUE ;
+
         for (int zahl : listeminus) {
             if (zahl > maxi) {
                 maxi = zahl;
@@ -93,7 +93,7 @@ public class A21_Arrays {
         // Aufgabe 3 Suche Lösung 2
 
         boolean gefunden = false;
-        i = 0;
+        int i = 0;
         String gesucht = "Montag";
         while( i < wochentage.length && !gefunden) {
             gefunden = wochentage[i].equalsIgnoreCase(gesucht);

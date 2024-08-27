@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/methoden/Methoden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A28_Temperaturumrechnung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A29_Rechteck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/A01_Sekunden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/A01_Sekunden.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +74,8 @@
     "Application.A26_Sortieren.executor": "Run",
     "Application.A26_Tabellenkalkulation.executor": "Run",
     "Application.A27_Tabellenkalkulation.executor": "Run",
+    "Application.A28_Temperaturumrechnung.executor": "Run",
+    "Application.A29_Rechteck.executor": "Run",
     "Application.AE04_Index_A.executor": "Run",
     "Application.AE05_Einwohnerzahlen.executor": "Run",
     "Application.AE06_LaengstesWort.executor": "Run",
@@ -155,7 +159,20 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Methoden">
+  <component name="RunManager" selected="Application.A29_Rechteck">
+    <configuration name="A01_Sekunden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A01_Sekunden" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="A25_Klassenspiegel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A25_Klassenspiegel" />
       <module name="java_basic" />
@@ -169,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A26_Sortieren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A26_Sortieren" />
+    <configuration name="A28_Temperaturumrechnung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A28_Temperaturumrechnung" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
@@ -182,25 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A27_Tabellenkalkulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A27_Tabellenkalkulation" />
+    <configuration name="A29_Rechteck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A29_Rechteck" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aufgaben.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MehrdimensionaleArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sprachkern.MehrdimensionaleArrays" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sprachkern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A29_Rechteck" />
+        <item itemvalue="Application.A28_Temperaturumrechnung" />
+        <item itemvalue="Application.A01_Sekunden" />
         <item itemvalue="Application.Methoden" />
         <item itemvalue="Application.A25_Klassenspiegel" />
-        <item itemvalue="Application.A26_Sortieren" />
-        <item itemvalue="Application.A27_Tabellenkalkulation" />
-        <item itemvalue="Application.MehrdimensionaleArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +276,7 @@
       <workItem from="1724182710365" duration="26073000" />
       <workItem from="1724257712162" duration="15934000" />
       <workItem from="1724511026405" duration="20653000" />
-      <workItem from="1724654021291" duration="26151000" />
+      <workItem from="1724654021291" duration="32303000" />
     </task>
     <servers />
   </component>

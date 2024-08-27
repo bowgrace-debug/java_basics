@@ -1,22 +1,52 @@
-package aufgaben;/**
-*A00_Sekunden
-*<p>
-*@author Maximilian Stolle
-*@version 11.08.2024
-*/
+package aufgaben;
+
+import java.util.Scanner;
+
+/**
+ * A00_Sekunden
+ * <p>
+ *
+ * @author Maximilian Stolle
+ * @version 11.08.2024
+ */
 public class A01_Sekunden {
+
+    static double eingabe() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("sekunden ");
+        return scanner.nextDouble();
+    }
+
+    static double sekundenInMinuten(double sekunden) {
+        return sekunden / 60;
+    }
+
+    static void ausgabe(double sekunden, double minuten) {
+        System.out.printf(" %.0f Sekunden sind gleich %.1f Minuten", sekunden, minuten);
+    }
+
+
     public static void main(String[] args) {
 
         // Eingabe
-        double sekunden = 210;
+        double sekunde = 210;
 
         // Verarbeitung
-        double minuten = sekunden / 60;
-        String ausgabe = String.format(
+        double minute = sekunde / 60;
+        String ausgaben = String.format(
                 " %.0f Sekunden sind gleich %.1f Minuten",
-                sekunden, minuten);
+                sekunde, minute);
 
         // Ausgabe
-        System.out.println(ausgabe);
+        System.out.println(ausgaben);
+
+
+        // Ausgabe Methode
+
+        double sekunden = eingabe();
+        double minuten = sekundenInMinuten(sekunden);
+
+        ausgabe(sekunden, minuten);
+
     }
 }

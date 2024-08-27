@@ -18,7 +18,7 @@ public class A30_Methoden2 {
         for (int i = 0; i < liste.length; i++) {
             x += liste[i];
         }
-         System.out.println(x);
+         System.out.printf("Die Summe aller Werte im Array beträgt: %d\n",x);
          return x;
     }
 
@@ -31,7 +31,7 @@ public class A30_Methoden2 {
                  min = zahl;
              }
          }
-        System.out.println(min);
+        System.out.printf("Der kleinste Wert im Array ist: %d\n",min);
          return min;
     }
 
@@ -44,7 +44,7 @@ public class A30_Methoden2 {
                  max = zahl;
              }
          }
-        System.out.println(max);
+        System.out.printf("Der größte Wert im Array ist: %d\n",max);
          return max;
     }
 
@@ -59,7 +59,7 @@ public class A30_Methoden2 {
         }
 
         int wert = sum / counter;
-        System.out.println(wert);
+        System.out.printf("Der Mittelwert im Array ist: %d\n",wert);
         return wert;
     }
 
@@ -69,7 +69,7 @@ public class A30_Methoden2 {
          for (int i = 0; i < liste.length; i++) {
              counter = i;
          }
-        System.out.println(counter);
+        System.out.printf("Die Anzahl aller Werte im Array beträgt: %d\n",counter);
          return counter;
     }
 

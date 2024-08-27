@@ -9,14 +9,19 @@ package aufgaben;
  */
 public class A29_Rechteck {
 
+    // Berechnung der Fläche
     static double flaeche (double a, double b) {
         double ergebnisflaeche = a * b;
         return ergebnisflaeche;
     }
+
+    // Berechnung des Umfanges
     static double umfang (double a, double b) {
         double ergebnisumfang = (a + b) + (a + b);
         return ergebnisumfang;
     }
+
+    // Ausgabe -- Ausgabe über die Konsole
     static void ausgabe (double flaeche, double umfang) {
         System.out.printf("Die Fläche beträgt: %.1f Quadratmeter.\nDer Umfang beträgt: %.1f Meter.", flaeche, umfang);
     }

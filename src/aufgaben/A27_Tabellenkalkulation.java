@@ -1,7 +1,5 @@
 package aufgaben;
 
-import java.util.Arrays;
-
 /**
  * A26_Tabellenkalkulation
  * <p>
@@ -9,7 +7,7 @@ import java.util.Arrays;
  * @author Maximilian Stolle
  * @version 26.08.2024
  */
-public class A26_Tabellenkalkulation {
+public class A27_Tabellenkalkulation {
     public static void main(String[] args) {
 
         double[][] tabelle = {
@@ -62,11 +60,11 @@ public class A26_Tabellenkalkulation {
             System.out.println();
         }
         double [] spalten = {
-                tabelle[0][0] + tabelle[1][0] + tabelle[2][0],
+                tabelle[0][2] + tabelle[1][0] + tabelle[2][0],
                 tabelle[0][1] + tabelle[1][1] + tabelle[2][1],
                 tabelle[0][2] + tabelle[1][2] + tabelle[2][2]
         };
-        System.out.printf(" %6.2f %6.2f %6.2f", spalten[0], spalten[1], spalten[2]);
+        System.out.printf(" %6.2f %7.2f %7.2f", spalten[0], spalten[1], spalten[2]);
 
         System.out.println();
         System.out.println("==========================================");

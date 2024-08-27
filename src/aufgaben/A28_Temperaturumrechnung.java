@@ -11,14 +11,19 @@ import java.util.Scanner;
  */
 public class A28_Temperaturumrechnung {
 
+    // Eingabe -- Eingabe über die Konsole
     static double eingabe () {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Fahrenheit: ");
         return scanner.nextDouble();
     }
+
+    // Verarbeitung -- Umrechnung von Fahrenheit in Celsius
     static double fahrenheitInCelsius(double fahrenheit) {
         return (((fahrenheit - 32) * 5) / 9);
     }
+
+    // Ausgabe -- Ausgabe über die Konsole
     static void ausgabe(double fahrenheit, double celsius) {
         System.out.printf("sind gleich:  %,.0f Celsius.",celsius);
     }

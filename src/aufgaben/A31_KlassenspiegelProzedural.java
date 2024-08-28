@@ -88,7 +88,7 @@ public class A31_KlassenspiegelProzedural {
     }
 
     // Berechnet sowohl die Note, als auch die Bewertung anhand der Eingabe (Prozentzahl)
-    static int notenBerechnung (int[] ergebnisse, String[] bewertung, double prozentzahl) {
+    static int notenUndBewertungBerechnung (int[] ergebnisse, String[] bewertung, double prozentzahl) {
         int note = 0;
         String wertung = "";
 
@@ -146,7 +146,7 @@ public class A31_KlassenspiegelProzedural {
         System.out.println("=============================================");
 
         System.out.println("Aufgabe 1 und 2 zusammen: \n");
-        int gesamteBewertung = notenBerechnung(ergebnisse, bewertung, prozentzahl);
+        int gesamteBewertung = notenUndBewertungBerechnung(ergebnisse, bewertung, prozentzahl);
 
 
     }

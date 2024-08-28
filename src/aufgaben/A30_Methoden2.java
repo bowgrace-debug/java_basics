@@ -9,8 +9,6 @@ package aufgaben;
  */
 public class A30_Methoden2 {
 
-
-
     // Berechnet die Summe aus dem ganzen Array
      static int summeListe(int[] liste) {
         int x = 0;
@@ -72,8 +70,6 @@ public class A30_Methoden2 {
         System.out.printf("Die Anzahl aller Werte im Array beträgt: %d\n",counter);
          return counter;
     }
-
-
 
     public static void main(String[] args) {
 

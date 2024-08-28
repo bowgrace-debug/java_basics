@@ -20,7 +20,7 @@ public class A28_Temperaturumrechnung {
 
     // Verarbeitung -- Umrechnung von Fahrenheit in Celsius
     static double fahrenheitInCelsius(double fahrenheit) {
-        return (((fahrenheit - 32) * 5) / 9);
+        return (((fahrenheit - 32.0) * 5.0) / 9.0);
     }
 
     // Ausgabe -- Ausgabe über die Konsole

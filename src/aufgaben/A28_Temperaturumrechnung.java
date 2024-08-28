@@ -25,7 +25,7 @@ public class A28_Temperaturumrechnung {
 
     // Ausgabe -- Ausgabe über die Konsole
     static void ausgabe(double fahrenheit, double celsius) {
-        System.out.printf("sind gleich:  %,.0f Celsius.",celsius);
+        System.out.printf("sind gleich:  %.2f Celsius.",celsius);
     }
 
     public static void main(String[] args) {

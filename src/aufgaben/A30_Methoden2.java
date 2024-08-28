@@ -13,9 +13,9 @@ public class A30_Methoden2 {
      static int summeListe(int[] liste) {
         int x = 0;
 
-        for (int i = 0; i < liste.length; i++) {
-            x += liste[i];
-        }
+         for (int i : liste) {
+             x += i;
+         }
          System.out.printf("Die Summe aller Werte im Array beträgt: %d\n",x);
          return x;
     }
@@ -51,8 +51,8 @@ public class A30_Methoden2 {
         int sum = 0;
         int counter = 0;
 
-        for (int i = 0; i < liste.length; i++) {
-            sum += liste[i];
+        for (int i : liste) {
+            sum += i;
             counter++;
         }
 

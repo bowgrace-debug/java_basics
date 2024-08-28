@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/A31_KlassenspiegelProzedural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/BBBBBB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +82,7 @@
     "Application.AE15_learn.executor": "Run",
     "Application.AE16_GeradeZiffern.executor": "Run",
     "Application.ArraysFelder.executor": "Run",
+    "Application.BBBBBB.executor": "Run",
     "Application.Erweiterte_forschleife.executor": "Run",
     "Application.Fallauswahl.executor": "Run",
     "Application.Mathe.executor": "Run",
@@ -161,19 +162,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.A31_KlassenspiegelProzedural">
-    <configuration name="A01_Sekunden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.A01_Sekunden" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="A28_Temperaturumrechnung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A28_Temperaturumrechnung" />
       <module name="java_basic" />
@@ -213,6 +201,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BBBBBB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.BBBBBB" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methoden.Scope" />
       <module name="java_basic" />
@@ -229,10 +230,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.A31_KlassenspiegelProzedural" />
+        <item itemvalue="Application.BBBBBB" />
         <item itemvalue="Application.Scope" />
         <item itemvalue="Application.A28_Temperaturumrechnung" />
         <item itemvalue="Application.A29_Rechteck" />
-        <item itemvalue="Application.A01_Sekunden" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +278,7 @@
       <workItem from="1724182710365" duration="26073000" />
       <workItem from="1724257712162" duration="15934000" />
       <workItem from="1724511026405" duration="20653000" />
-      <workItem from="1724654021291" duration="62698000" />
+      <workItem from="1724654021291" duration="65505000" />
     </task>
     <servers />
   </component>

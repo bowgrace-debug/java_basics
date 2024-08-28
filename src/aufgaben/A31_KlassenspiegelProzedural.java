@@ -95,25 +95,31 @@ public class A31_KlassenspiegelProzedural {
         if (prozentzahl >= 92) {
             note = 1;
             wertung = bewertung[0];
-        } else {
+        }
+        else {
             if (prozentzahl >= 81 && prozentzahl <= 91) {
                 note = 2;
                 wertung = bewertung[1];
 
-            } else {
+            }
+            else {
                 if (prozentzahl >= 67 && prozentzahl <= 80) {
                     note = 3;
                     wertung = bewertung[2];
-                } else if (prozentzahl >= 50 && prozentzahl <= 66) {
-                    note = 4;
-                    wertung = bewertung[3];
                 } else {
-                    if (prozentzahl >= 30 && prozentzahl <= 49) {
-                        note = 5;
-                        wertung = bewertung[4];
-                    } else {
-                        note = 6;
-                        wertung = bewertung[5];
+                    if (prozentzahl >= 50 && prozentzahl <= 66) {
+                        note = 4;
+                        wertung = bewertung[3];
+                    }
+                    else {
+                        if (prozentzahl >= 30 && prozentzahl <= 49) {
+                            note = 5;
+                            wertung = bewertung[4];
+                        }
+                        else {
+                            note = 6;
+                            wertung = bewertung[5];
+                        }
                     }
                 }
             }

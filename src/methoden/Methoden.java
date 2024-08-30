@@ -45,6 +45,16 @@ public class Methoden {
         return summe;
     }
 
+    // mit variabler Parameterliste
+    static int addieren (int... a) { // int[] a
+        int summe = 0;
+
+        for (int x : a) {
+            summe += x;
+        }
+        return summe;
+    }
+
     // Hauptprogramm, Entry point
     public static void main(String[] args) {
         schreibWas();
@@ -64,5 +74,9 @@ public class Methoden {
 
         int summe = summeArray(werte);
         System.out.println(summe);
+
+        System.out.println(addieren(4,5));
+        System.out.println(addieren(4,5,6,7));
+        System.out.println(addieren());
     }
 }

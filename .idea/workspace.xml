@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/methoden/Rekursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A32_Versandkostenberechnung/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/A32_Versandkostenberechnung/Paket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometrie/rechteck/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geometrie/rechteck/Rechteck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methoden/Methoden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methoden/Methoden.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +88,7 @@
     "Application.BBBBBB.executor": "Run",
     "Application.Erweiterte_forschleife.executor": "Run",
     "Application.Fallauswahl.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Mathe.executor": "Run",
     "Application.MehrdimensionaleArrays.executor": "Run",
     "Application.Methoden.executor": "Run",
@@ -108,6 +111,7 @@
     "Application.Zeichenketten.executor": "Run",
     "Application.ZeichenkettenVergleiche.executor": "Run",
     "Application.anrede.executor": "Run",
+    "Application.aufgaben.A32_Versandkostenberechnung.Main.executor": "Run",
     "Application.balkendiagramm.executor": "Run",
     "Application.din_a4seite.executor": "Run",
     "Application.einmalEins.executor": "Run",
@@ -163,13 +167,13 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Rekursion">
+  <component name="RunManager" selected="Application.aufgaben.A32_Versandkostenberechnung.Main">
     <configuration name="A31_KlassenspiegelProzedural" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.A31_KlassenspiegelProzedural" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
+          <option name="PATTERN" value="aufgaben.A32_Versandkostenberechnung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BBBBBB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.BBBBBB" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="geometrie.rechteck.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.*" />
+          <option name="PATTERN" value="geometrie.rechteck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methoden.Scope" />
+    <configuration name="aufgaben.A32_Versandkostenberechnung.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.A32_Versandkostenberechnung.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methoden.*" />
+          <option name="PATTERN" value="aufgaben.A32_Versandkostenberechnung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.aufgaben.A32_Versandkostenberechnung.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Rekursion" />
         <item itemvalue="Application.Methoden" />
         <item itemvalue="Application.A31_KlassenspiegelProzedural" />
-        <item itemvalue="Application.BBBBBB" />
-        <item itemvalue="Application.Scope" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +284,7 @@
       <workItem from="1724182710365" duration="26073000" />
       <workItem from="1724257712162" duration="15934000" />
       <workItem from="1724511026405" duration="20653000" />
-      <workItem from="1724654021291" duration="76199000" />
+      <workItem from="1724654021291" duration="85697000" />
     </task>
     <servers />
   </component>

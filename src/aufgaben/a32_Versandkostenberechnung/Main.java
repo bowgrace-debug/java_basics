@@ -1,4 +1,4 @@
-package aufgaben.A32_Versandkostenberechnung;
+package aufgaben.a32_Versandkostenberechnung;
 
 import java.util.Arrays;
 

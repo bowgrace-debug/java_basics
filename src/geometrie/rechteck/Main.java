@@ -15,8 +15,12 @@ public class Main {
 
         // Instanziierung (Objekt erzeugen über new)
          r = new Rechteck();
-        r.seitenLaengeA = 3;
-        r.seitenLaengeB = 4;
+
+        r.setSeitenLaengeA(3);
+        r.setSeitenLaengeB(4);
+
+        System.out.printf("a: %d\n", r.getSeitenLaengeA());
+        System.out.printf("b: %d\n", r.getSeitenLaengeB());
 
         int u = r.umfang();
         System.out.printf("Umfang: %d\n", u);

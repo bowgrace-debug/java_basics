@@ -29,6 +29,8 @@ public class Main {
         }
 
         double kontostand = konto.getKontostand();
-        System.out.println(kontostand);
+        System.out.printf("Kontostand: %,.2f €\n", konto.getKontostand());
+
+        System.out.println(konto.getNachname());
     }
 }

@@ -50,6 +50,14 @@ public class Bankkonto {
     }
 
     // Getter
+    public String getNachname() {
+        return nachname;
+    }
+
+    public String getVorname() {
+        return vorname;
+    }
+
     public double getKontostand() {
         return kontostand;
     }

@@ -9,26 +9,36 @@ package aufgaben.a35_AutoVermietung;
  */
 public class Car {
 
-    double tagespauschaleCar;
-    double gefahreneKilometer;
-    double mieteInTagen;
-    String model;
-    final double freieKilometer = 150.0;
+    private double tagespauschaleCar;
+    private double gefahreneKilometer;
+    private double mieteInTagen;
+    private String model;
+    final double FREIEKILOMETER = 150.0;
 
-    public double gesamtpreisOne(double gefahreneKilometer, double mieteInTagen) {
+    public double gesamtpreis(double gefahreneKilometer, double FREIEKILOMETER,double tagespauschaleCar, double mieteInTagen) {
         double gesamtpreis = tagespauschaleCar * mieteInTagen;
         if (gefahreneKilometer > 150) {
-            gesamtpreis += ((gefahreneKilometer - freieKilometer) * 0.60);
+            gesamtpreis += ((gefahreneKilometer - FREIEKILOMETER) * 0.60);
         }
         return gesamtpreis;
     }
+    public void setMieteInTagen(double mieteInTagen) {
+        this.mieteInTagen = mieteInTagen;
+    }
+    public double getMieteInTagen() {
+        return mieteInTagen;
+    }
 
-    public void setTagespauschaleCar() {
-        if (model.equalsIgnoreCase("Mustang")) {
+    public void setTagespauschaleCar(double tagespauschaleCar) {
+        if (model.equalsIgnoreCase("Ford Mustang V8 Cabrio 1965")) {
             tagespauschaleCar = 270.0;
         } else {
             tagespauschaleCar = 225.0;
         }
+    }
+
+    public double getTagespauschaleCar(double tagespauschaleCar) {
+        return tagespauschaleCar;
     }
 
     public void setModel(String model) {
@@ -37,5 +47,13 @@ public class Car {
 
     public String getModel() {
         return model;
+    }
+
+    public void setGefahreneKilometer(double gefahreneKilometer) {
+        this.gefahreneKilometer = gefahreneKilometer;
+    }
+
+    public double getGefahreneKilometer() {
+        return gefahreneKilometer;
     }
 }

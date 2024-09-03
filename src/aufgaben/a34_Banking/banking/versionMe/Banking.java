@@ -60,9 +60,7 @@ public class Banking {
 
     // Auszahlung
     public void setAuszahlung(double auszahlung) {
-        if (kontostand >= auszahlung && kontostand - auszahlung < -500) {
-            this.kontostand = auszahlung;
-        }
+            this.kontostand -= auszahlung;
     }
     public double getAuszahlung() {
         return kontostand;

@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionMe/Farben.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionMe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionNew/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionNew/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/a37_Employee/versionMe/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/a37_Employee/versionMe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/a37_Employee/versionNew/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/a37_Employee/versionNew/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/kontakte/Kontakte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/kontakte/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionMe/Banking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionMe/Banking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionMe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionMe/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a35_AutoVermietung/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/a35_AutoVermietung/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a35_AutoVermietung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/a35_AutoVermietung/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +122,11 @@
     "Application.aufgaben.a34_Banking.banking.versionMe.Main.executor": "Run",
     "Application.aufgaben.a34_Banking.banking.versionNew.Main.executor": "Run",
     "Application.aufgaben.a35_AutoVermietung.Main.executor": "Run",
+    "Application.aufgaben.a36_Farben.Main.executor": "Run",
+    "Application.aufgaben.a36_Farben.versionMe.Main.executor": "Run",
+    "Application.aufgaben.a36_Farben.versionNew.Main.executor": "Run",
+    "Application.aufgaben.a37_Employee.versionNew.Main.executor": "Run",
+    "Application.aufgaben.aufgaben_wiederholungen.kontakte.Main.executor": "Run",
     "Application.aufgaben.banking.Main.executor": "Run",
     "Application.balkendiagramm.executor": "Run",
     "Application.din_a4seite.executor": "Run",
@@ -166,6 +177,7 @@
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben\a37_Employee\versionMe" />
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben\a34_Banking\banking\versionNew" />
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben\a34_Banking\banking\versionMe" />
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\geometrie\rechteck" />
@@ -175,13 +187,13 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.aufgaben.a35_AutoVermietung.Main">
+  <component name="RunManager" selected="Application.aufgaben.a37_Employee.versionNew.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="geometrie.rechteck.Main" />
+      <option name="MAIN_CLASS_NAME" value="aufgaben.a37_Employee.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="geometrie.rechteck.*" />
+          <option name="PATTERN" value="aufgaben.a37_Employee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aufgaben.a32_Versandkostenberechnung.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.a32_Versandkostenberechnung.Main" />
+    <configuration name="aufgaben.a36_Farben.versionMe.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.a36_Farben.versionMe.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.a32_Versandkostenberechnung.*" />
+          <option name="PATTERN" value="aufgaben.a36_Farben.versionMe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aufgaben.a34_Banking.banking.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.a34_Banking.banking.Main" />
+    <configuration name="aufgaben.a36_Farben.versionNew.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.a36_Farben.versionNew.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.a34_Banking.banking.*" />
+          <option name="PATTERN" value="aufgaben.a36_Farben.versionNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aufgaben.a34_Banking.banking.versionNew.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.a34_Banking.banking.versionNew.Main" />
+    <configuration name="aufgaben.a37_Employee.versionNew.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.a37_Employee.versionNew.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.a34_Banking.banking.versionNew.*" />
+          <option name="PATTERN" value="aufgaben.a37_Employee.versionNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aufgaben.a35_AutoVermietung.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.a35_AutoVermietung.Main" />
+    <configuration name="aufgaben.aufgaben_wiederholungen.kontakte.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgaben_wiederholungen.kontakte.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.a35_AutoVermietung.*" />
+          <option name="PATTERN" value="aufgaben.aufgaben_wiederholungen.kontakte.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.aufgaben.a35_AutoVermietung.Main" />
-        <item itemvalue="Application.aufgaben.a34_Banking.banking.Main" />
-        <item itemvalue="Application.aufgaben.a34_Banking.banking.versionNew.Main" />
+        <item itemvalue="Application.aufgaben.a37_Employee.versionNew.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.aufgaben.a32_Versandkostenberechnung.Main" />
+        <item itemvalue="Application.aufgaben.aufgaben_wiederholungen.kontakte.Main" />
+        <item itemvalue="Application.aufgaben.a36_Farben.versionNew.Main" />
+        <item itemvalue="Application.aufgaben.a36_Farben.versionMe.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +308,7 @@
       <workItem from="1725259373240" duration="10289000" />
       <workItem from="1725271344847" duration="619000" />
       <workItem from="1725272129527" duration="3493000" />
-      <workItem from="1725275890021" duration="22513000" />
+      <workItem from="1725275890021" duration="54093000" />
     </task>
     <servers />
   </component>

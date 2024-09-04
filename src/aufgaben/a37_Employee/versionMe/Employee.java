@@ -63,4 +63,8 @@ public class Employee {
         restUrlaub = getUrlaubstage() - getGenommeneUrlaubstage();
         return restUrlaub;
     }
+
+    public void  ausgabe() {
+        System.out.printf("%s %s (%s), geboren am %s\nJahresurlaub: %d\nGenommene Tage: %d\nResturlaub: %d\n", getVorname(), getNachname(), getPersonalnummer(),getGeburtstag(),getUrlaubstage(), getGenommeneUrlaubstage(),restUrlaub());
+    }
 }

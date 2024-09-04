@@ -16,7 +16,13 @@ public class Main {
         // Instanziierung (Objekt erzeugen über new)
          r = new Rechteck();
 
-        r.setSeitenLaengeA(3);
+         try {
+             r.setSeitenLaengeA(-3);
+         }
+         catch (IllegalArgumentException e) {
+             System.out.println("Shit happens!");
+             System.out.println(e.getMessage());
+         }
         r.setSeitenLaengeB(4);
 
         System.out.printf("a: %d\n", r.getSeitenLaengeA());

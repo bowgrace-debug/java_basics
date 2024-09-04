@@ -38,8 +38,8 @@ public class Employee {
         return personalnummer;
     }
 
-    public void setGeburtstag(String geburstag) {
-        this.geburtstag = geburstag;
+    public void setGeburtstag(String geburtstag) {
+        this.geburtstag = geburtstag;
     }
     public String getGeburtstag() {
         return geburtstag;
@@ -64,7 +64,10 @@ public class Employee {
         return restUrlaub;
     }
 
-    public void  ausgabe() {
-        System.out.printf("%s %s (%s), geboren am %s\nJahresurlaub: %d\nGenommene Tage: %d\nResturlaub: %d\n", getVorname(), getNachname(), getPersonalnummer(),getGeburtstag(),getUrlaubstage(), getGenommeneUrlaubstage(),restUrlaub());
+    public String ausgabe() {
+        String formartAusgabe ="";
+        formartAusgabe += String.format("%s %s (%s), geboren am %s\nJahresurlaub: %d\nGenommene Tage: %d\nResturlaub: %d\n", getVorname(), getNachname(), getPersonalnummer(),getGeburtstag(),getUrlaubstage(), getGenommeneUrlaubstage(),restUrlaub());
+        formartAusgabe += String.format("=================================================");
+        return formartAusgabe;
     }
 }

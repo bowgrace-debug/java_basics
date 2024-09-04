@@ -10,7 +10,7 @@ package aufgaben.a37_Employee.versionMe;
 public class Main {
     public static void main(String[] args) {
 
-        Employee[] mitarbeiter = new Employee[3];
+        Employee[] mitarbeiter = new Employee[5];
 
         mitarbeiter[0] = new Employee();
         mitarbeiter[0].setVorname("Annika");
@@ -20,8 +20,6 @@ public class Main {
         mitarbeiter[0].setUrlaubstage(30);
         mitarbeiter[0].setGenommeneUrlaubstage(5);
         mitarbeiter[0].restUrlaub();
-        mitarbeiter[0].ausgabe();
-        System.out.println("========================================");
 
         mitarbeiter[1] = new Employee();
         mitarbeiter[1].setVorname("Hans");
@@ -31,8 +29,6 @@ public class Main {
         mitarbeiter[1].setUrlaubstage(30);
         mitarbeiter[1].setGenommeneUrlaubstage(27);
         mitarbeiter[1].restUrlaub();
-        mitarbeiter[1].ausgabe();
-        System.out.println("========================================");
 
         mitarbeiter[2] = new Employee();
         mitarbeiter[2].setVorname("Sabine");
@@ -42,7 +38,11 @@ public class Main {
         mitarbeiter[2].setUrlaubstage(30);
         mitarbeiter[2].setGenommeneUrlaubstage(16);
         mitarbeiter[2].restUrlaub();
-        mitarbeiter[2].ausgabe();
-        System.out.println("========================================");
+
+        for (Employee employee : mitarbeiter) {
+            if (employee != null) {
+                System.out.println(employee.ausgabe());
+            }
+        }
     }
 }

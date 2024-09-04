@@ -35,6 +35,9 @@ public class Color {
         if (isColorsChannel(red)) {
             this.red = red;
         }
+        else {
+            throw new IllegalArgumentException("nur Rot-Werte zwischen 0 und 255 zugelassen!");
+        }
     }
     public int getRed() {
         return red;
@@ -44,11 +47,17 @@ public class Color {
         if (isColorsChannel(green)) {
             this.green = green;
         }
+        else {
+            throw new IllegalArgumentException("nur Grün-Werte zwischen 0 und 255 zugelassen!");
+        }
     }
 
     public void setBlue(int blue) {
         if (isColorsChannel(blue)) {
             this.blue = blue;
+        }
+        else {
+            throw new IllegalArgumentException("nur Blau-Werte zwischen 0 und 255 zugelassen!");
         }
     }
 }

@@ -18,8 +18,12 @@ public class Main {
         System.out.println(orange.asHexString());
 
         Color pink = new Color();
-        pink.setRgb(250,50,147);
-
+        try {
+            pink.setRgb(-250, 50, 147);
+        }
+        catch (IllegalArgumentException e) {
+            System.err.println("FEHLER: " + e.getMessage());
+        }
         Color grey = new Color();
         grey.setGrey(50);
 

@@ -5,41 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/methoden/MethodenUeberladen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paket/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paket/Paket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preis/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preis/Preis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A00_DmToEuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A00_DmToEuro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A01_Sekunden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A01_Sekunden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A02_Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A02_Rechteck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A03_Kraftstoffverbrauch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A03_Kraftstoffverbrauch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A04_Speicherbedarf_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A04_Speicherbedarf_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A05_Speicherbedarf_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A05_Speicherbedarf_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A06_OlivenoelTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A06_OlivenoelTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A07_Versandkostenberechnung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A07_Versandkostenberechnung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A08_Provisionsberechnungen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A08_Provisionsberechnungen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A09_Schaltjahr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A09_Schaltjahr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A10_ErmittlungDerAnrede.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A10_ErmittlungDerAnrede.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A11_Zahlenreihen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A11_Zahlenreihen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A12_kompletteEinmaleins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A12_kompletteEinmaleins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A13_Rueckwaerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A13_Rueckwaerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A14_UmlauteZaehlen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A14_UmlauteZaehlen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A15_Zwischenraueme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A15_Zwischenraueme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A16_JedenZweiten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A16_JedenZweiten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A17_TuerenVonDurin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A17_TuerenVonDurin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A18_WortPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A18_WortPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A19_SatzPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A19_SatzPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A20_Zahlensysteme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A20_Zahlensysteme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A21_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A21_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A22_Umgedreht.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A22_Umgedreht.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A23_Prozente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A23_Prozente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A24_Balkendiagramm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A24_Balkendiagramm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A25_Klassenspiegel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A25_Klassenspiegel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A26_Sortieren.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A26_Sortieren.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A27_Tabellenkalkulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A27_Tabellenkalkulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A28_Temperaturumrechnung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A28_Temperaturumrechnung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A29_Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A29_Rechteck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A30_Methoden2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A30_Methoden2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/A31_KlassenspiegelProzedural.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A31_KlassenspiegelProzedural.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionNew/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionNew/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionNew/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionNew/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/kontakte/Kontakte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/kontakte/Kontakte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/kontakte/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/kontakte/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geometrie/rechteck/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geometrie/rechteck/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geometrie/rechteck/Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geometrie/rechteck/Rechteck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,129 +49,130 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.A01_Sekunden.executor": "Run",
-    "Application.A04_Speicherbedarf_01.executor": "Run",
-    "Application.A05_SpeicherbedarfDINA4Seite.executor": "Run",
-    "Application.A05_Speicherbedarf_02.executor": "Run",
-    "Application.A06_OlivenoelTank.executor": "Run",
-    "Application.A07_Versandkostenberechnung.executor": "Run",
-    "Application.A07_VersandkostenberechnungKopie.executor": "Run",
-    "Application.A08_Provisionsberechnungen.executor": "Run",
-    "Application.A08_ProvisionsberechnungenKopie.executor": "Run",
-    "Application.A09_Schaljahr.executor": "Run",
-    "Application.A09_Schaltjahr.executor": "Run",
-    "Application.A10_ErmittlungDerAnrede.executor": "Run",
-    "Application.A11_Zahlenreihen.executor": "Run",
-    "Application.A12_kompletteEinmaleins.executor": "Run",
-    "Application.A13_Rueckwaerts.executor": "Debug",
-    "Application.A14_UmlauteZaehlen.executor": "Run",
-    "Application.A15_Zwischenraueme.executor": "Run",
-    "Application.A16_JedenZweiten.executor": "Run",
-    "Application.A17_TuerenVonDurin.executor": "Run",
-    "Application.A18_Palindrome.executor": "Run",
-    "Application.A20_Zahlensysteme.executor": "Run",
-    "Application.A21_Arrays.executor": "Run",
-    "Application.A22_Umgedreht.executor": "Run",
-    "Application.A23_Prozente.executor": "Run",
-    "Application.A24_Balkendiagramm.executor": "Run",
-    "Application.A25_Klassenspiegel.executor": "Run",
-    "Application.A26_Sortieren.executor": "Run",
-    "Application.A26_Tabellenkalkulation.executor": "Run",
-    "Application.A27_Tabellenkalkulation.executor": "Run",
-    "Application.A28_Temperaturumrechnung.executor": "Run",
-    "Application.A29_Rechteck.executor": "Run",
-    "Application.A30_Methoden2.executor": "Run",
-    "Application.A31_KlassenspiegelProzedural.executor": "Run",
-    "Application.AE04_Index_A.executor": "Run",
-    "Application.AE05_Einwohnerzahlen.executor": "Run",
-    "Application.AE06_LaengstesWort.executor": "Run",
-    "Application.AE15_learn.executor": "Run",
-    "Application.AE16_GeradeZiffern.executor": "Run",
-    "Application.ArraysFelder.executor": "Run",
-    "Application.Ausnahmen.executor": "Run",
-    "Application.BBBBBB.executor": "Run",
-    "Application.Erweiterte_forschleife.executor": "Run",
-    "Application.Fallauswahl.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Mathe.executor": "Run",
-    "Application.MehrdimensionaleArrays.executor": "Run",
-    "Application.Methoden.executor": "Run",
-    "Application.MinMax.executor": "Run",
-    "Application.Monitor.executor": "Run",
-    "Application.Provision.executor": "Run",
-    "Application.Rekursion.executor": "Run",
-    "Application.Schleifen.executor": "Run",
-    "Application.SchleifenBeispielKennwort.executor": "Run",
-    "Application.Schleifenarten.executor": "Run",
-    "Application.Schleifensteuerung.executor": "Run",
-    "Application.Scope.executor": "Run",
-    "Application.TernaererOperator.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Test_Arrays_Area.executor": "Run",
-    "Application.TypenKonvertierung.executor": "Run",
-    "Application.VariablenUndDatenTypen.executor": "Run",
-    "Application.Verzweigungen.executor": "Run",
-    "Application.Wrapperklassen.executor": "Run",
-    "Application.Zeichenketten.executor": "Run",
-    "Application.ZeichenkettenVergleiche.executor": "Run",
-    "Application.anrede.executor": "Run",
-    "Application.aufgaben.A32_Versandkostenberechnung.Main.executor": "Run",
-    "Application.aufgaben.a34_Banking.banking.Main.executor": "Run",
-    "Application.aufgaben.a34_Banking.banking.versionMe.Main.executor": "Run",
-    "Application.aufgaben.a34_Banking.banking.versionNew.Main.executor": "Run",
-    "Application.aufgaben.a35_AutoVermietung.Main.executor": "Run",
-    "Application.aufgaben.a36_Farben.Main.executor": "Run",
-    "Application.aufgaben.a36_Farben.versionMe.Main.executor": "Run",
-    "Application.aufgaben.a36_Farben.versionNew.Main.executor": "Run",
-    "Application.aufgaben.a37_Employee.versionMe.Main.executor": "Run",
-    "Application.aufgaben.a37_Employee.versionNew.Main.executor": "Run",
-    "Application.aufgaben.aufgaben_wiederholungen.kontakte.Main.executor": "Run",
-    "Application.aufgaben.banking.Main.executor": "Run",
-    "Application.balkendiagramm.executor": "Run",
-    "Application.din_a4seite.executor": "Run",
-    "Application.einmalEins.executor": "Run",
-    "Application.geometrie.rechteck.Main.executor": "Run",
-    "Application.jedenzweiten.executor": "Run",
-    "Application.kraftsoffverbrauch.executor": "Run",
-    "Application.monitor.executor": "Run",
-    "Application.olivenoeltank.executor": "Run",
-    "Application.provision.executor": "Run",
-    "Application.prozente.executor": "Run",
-    "Application.rechteck.executor": "Run",
-    "Application.rueckwaerts.executor": "Run",
-    "Application.schaltjahr.executor": "Run",
-    "Application.seite.executor": "Run",
-    "Application.sekunden.executor": "Run",
-    "Application.suche.executor": "Run",
-    "Application.umgedreht.executor": "Run",
-    "Application.umlaute.executor": "Run",
-    "Application.versandkostenberechnung.executor": "Run",
-    "Application.zahlenreihen.executor": "Run",
-    "Application.zwischenraeume.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/java_projects/java_basic/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false",
-    "two.files.diff.last.used.file": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben/A07_Versandkostenberechnung.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A01_Sekunden.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A04_Speicherbedarf_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A05_SpeicherbedarfDINA4Seite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A05_Speicherbedarf_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A06_OlivenoelTank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A07_Versandkostenberechnung.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A07_VersandkostenberechnungKopie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A08_Provisionsberechnungen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A08_ProvisionsberechnungenKopie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A09_Schaljahr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A09_Schaltjahr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A10_ErmittlungDerAnrede.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A11_Zahlenreihen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A12_kompletteEinmaleins.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A13_Rueckwaerts.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.A14_UmlauteZaehlen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A15_Zwischenraueme.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A16_JedenZweiten.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A17_TuerenVonDurin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A18_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A20_Zahlensysteme.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A21_Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A22_Umgedreht.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A23_Prozente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A24_Balkendiagramm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A25_Klassenspiegel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A26_Sortieren.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A26_Tabellenkalkulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A27_Tabellenkalkulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A28_Temperaturumrechnung.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A29_Rechteck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A30_Methoden2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A31_KlassenspiegelProzedural.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AE04_Index_A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AE05_Einwohnerzahlen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AE06_LaengstesWort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AE15_learn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AE16_GeradeZiffern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraysFelder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ausnahmen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BBBBBB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Erweiterte_forschleife.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fallauswahl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mathe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MehrdimensionaleArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methoden.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodenUeberladen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Monitor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Provision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rekursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Schleifen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SchleifenBeispielKennwort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Schleifenarten.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Schleifensteuerung.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaererOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_Arrays_Area.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypenKonvertierung.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariablenUndDatenTypen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Verzweigungen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Wrapperklassen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zeichenketten.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZeichenkettenVergleiche.executor&quot;: &quot;Run&quot;,
+    &quot;Application.anrede.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.A32_Versandkostenberechnung.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.a34_Banking.banking.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.a34_Banking.banking.versionMe.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.a34_Banking.banking.versionNew.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.a35_AutoVermietung.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.a36_Farben.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.a36_Farben.versionMe.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.a36_Farben.versionNew.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.a37_Employee.versionMe.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.a37_Employee.versionNew.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.aufgaben_wiederholungen.kontakte.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aufgaben.banking.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.balkendiagramm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.din_a4seite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.einmalEins.executor&quot;: &quot;Run&quot;,
+    &quot;Application.geometrie.rechteck.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.jedenzweiten.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kraftsoffverbrauch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.monitor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.olivenoeltank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.provision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prozente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rechteck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rueckwaerts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.schaltjahr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sekunden.executor&quot;: &quot;Run&quot;,
+    &quot;Application.suche.executor&quot;: &quot;Run&quot;,
+    &quot;Application.umgedreht.executor&quot;: &quot;Run&quot;,
+    &quot;Application.umlaute.executor&quot;: &quot;Run&quot;,
+    &quot;Application.versandkostenberechnung.executor&quot;: &quot;Run&quot;,
+    &quot;Application.zahlenreihen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.zwischenraeume.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/java_projects/java_basic/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben/A07_Versandkostenberechnung.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src" />
@@ -214,13 +190,26 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.aufgaben.a36_Farben.versionNew.Main">
+  <component name="RunManager" selected="Application.MethodenUeberladen">
     <configuration name="Ausnahmen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sprachkern.Ausnahmen" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sprachkern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodenUeberladen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methoden.MethodenUeberladen" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methoden.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,19 +243,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aufgaben.a37_Employee.versionNew.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.a37_Employee.versionNew.Main" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.a37_Employee.versionNew.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="geometrie.rechteck.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="geometrie.rechteck.Main" />
       <module name="java_basic" />
@@ -282,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodenUeberladen" />
         <item itemvalue="Application.aufgaben.a36_Farben.versionNew.Main" />
         <item itemvalue="Application.Ausnahmen" />
         <item itemvalue="Application.geometrie.rechteck.Main" />
         <item itemvalue="Application.aufgaben.a37_Employee.versionMe.Main" />
-        <item itemvalue="Application.aufgaben.a37_Employee.versionNew.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +311,9 @@
       <workItem from="1725259373240" duration="10289000" />
       <workItem from="1725271344847" duration="619000" />
       <workItem from="1725272129527" duration="3493000" />
-      <workItem from="1725275890021" duration="68365000" />
+      <workItem from="1725275890021" duration="69016000" />
+      <workItem from="1725518491439" duration="13118000" />
+      <workItem from="1725619758562" duration="1118000" />
     </task>
     <servers />
   </component>

@@ -24,6 +24,17 @@ public class Main {
         banking.setKontostand(1149.74);
         final int PIN = 0000;
 
+        String s = banking.getiBAN();
+        String pattern;
+        boolean matched;
+
+//        pattern = "[A-Z]{2}\\d{2}(\\s?\\d{4}){4}[0-9]\\d{2}";
+        pattern = "[A-Z]{2}\\d{2}(\\s?\\d{4}){5}";
+
+        matched = s.matches(pattern);
+        System.out.printf("%-15s%-35s %b\n", s,pattern,matched);
+
+
         System.out.println("Bitte geben Sie Ihre Geheimzahl ein:\n");
         int pin = scanner.nextInt();
         scanner.nextLine();

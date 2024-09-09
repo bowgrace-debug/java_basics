@@ -15,8 +15,6 @@ public class Banking {
     private String nachname;
     private String iBAN;
     private double kontostand;
-    private double einzahlung;
-    private double auszahlung;
 
     // Vorname
     public void setVorname(String vorname) {

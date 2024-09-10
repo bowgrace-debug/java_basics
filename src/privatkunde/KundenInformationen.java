@@ -1,5 +1,7 @@
 package privatkunde;
 
+import com.sun.source.tree.BreakTree;
+
 import java.time.DateTimeException;
 import java.util.zip.DataFormatException;
 
@@ -71,5 +73,9 @@ public class KundenInformationen {
         else {
             throw new IllegalArgumentException("FEHLER: Falsches Datum Format");
         }
+    }
+
+    public String ausgabeInfo(){
+        return String.format("Name: %s %s, geboren am: %s\n", vorname, nachname, geburtstag);
     }
 }

@@ -17,14 +17,11 @@ public class Main {
         KundenInformationen kundeOne = new KundenInformationen
                 ("Max", "Stolle", "01.01.2000", adresse, konto);
 
-        System.out.printf("Name: %s %s, geboren am: %s\n",
-                kundeOne.getVorname(), kundeOne.getNachname(), kundeOne.getGeburtstag());
+        System.out.print(kundeOne.ausgabeInfo());
         System.out.println("=========================================");
-        System.out.printf("IBAN: %s\nBIC: %s \n",
-                kundeOne.getKonto().getIban(), kundeOne.getKonto().getBic());
+        System.out.print(kundeOne.getKonto().ausgabeKonto());
         System.out.println("=========================================");
-        System.out.printf("Adresse:\n%s\n%d %s\n",
-                kundeOne.getAdresse().getStrasse(), kundeOne.getAdresse().getPlz(), kundeOne.getAdresse().getOrt());
+        System.out.print(kundeOne.getAdresse().ausgabeAdresse());
         System.out.println("=========================================");
     }
 }

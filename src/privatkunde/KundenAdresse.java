@@ -45,4 +45,8 @@ public class KundenAdresse {
     public String getOrt(){
         return ort;
     }
+
+    public String ausgabeAdresse(){
+        return String.format("Adresse:\n%s\n%d %s\n", strasse, plz, ort);
+    }
 }

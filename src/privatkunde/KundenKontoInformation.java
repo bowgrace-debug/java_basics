@@ -54,4 +54,8 @@ public class KundenKontoInformation {
             throw new NumberFormatException("FEHLER: Falsches BIC Format");
         }
     }
+
+    public String ausgabeKonto(){
+        return String.format("IBAN: %s\nBIC: %s \n", iban, bic);
+    }
 }

@@ -20,7 +20,7 @@ public class Main {
         // Objektreferent variable
         banking.setVorname("Maximilian ");
         banking.setNachname("Stolle");
-        banking.setiBAN("DE51 2905 0101 0081 9946 75");
+        banking.setiBAN("DE51290501010081994675");
         banking.setKontostand(1149.74);
         final int PIN = 0000;
 
@@ -28,11 +28,10 @@ public class Main {
         String pattern;
         boolean matched;
 
-//        pattern = "[A-Z]{2}\\d{2}(\\s?\\d{4}){4}[0-9]\\d{2}";
-        pattern = "[A-Z]{2}\\d{2}(\\s?\\d{4}){5}";
+        pattern = "[A-Z]{2}\\d{20}";
 
         matched = s.matches(pattern);
-        System.out.printf("%-15s%-35s %b\n", s,pattern,matched);
+        System.out.printf("%-15s%-15s %b\n", s,pattern,matched);
 
 
         System.out.println("Bitte geben Sie Ihre Geheimzahl ein:\n");

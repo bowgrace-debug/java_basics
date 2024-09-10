@@ -14,14 +14,15 @@ public class A44_RegEx_PreisInEuro {
         String pattern;
         boolean matched;
 
-//        s = "1,99 €";
-        s = " ,99 €";
+        s = "1,99 €";
+//        s = " ,99 €";
 //        s = "1234,95 €";
-        String patternEuro = "[0-9]+";
+        pattern = "[0-9][,][0-9]{2} ?€";
+       /* String patternEuro = "[0-9]+";
         String patternTrennzeichen = "[,]";
         String patternCent = "[0-9]{2}";
         String patternWaehrung = " ?€";
-        pattern = patternEuro + patternTrennzeichen + patternCent + patternWaehrung;
+        pattern = patternEuro + patternTrennzeichen + patternCent + patternWaehrung;*/
 
         matched = s.matches(pattern);
         System.out.printf("%-15s%-35s %b\n", s,pattern,matched);

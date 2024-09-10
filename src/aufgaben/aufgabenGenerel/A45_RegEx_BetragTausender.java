@@ -23,6 +23,6 @@ public class A45_RegEx_BetragTausender {
         pattern = patternEuro + patternCent;
 
         matched = s.matches(pattern);
-        System.out.printf("%-15s %-35s %b\n", s,pattern,matched);
+        System.out.printf("%-5s %-25s %b\n", s,pattern,matched);
     }
 }

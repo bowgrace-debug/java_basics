@@ -22,17 +22,14 @@ public class Main {
         banking.setNachname("Stolle");
         banking.setiBAN("DE51290501010081994675");
         banking.setKontostand(1149.74);
-        final int PIN = 0000;
+        final int PIN = 7193;
 
-        String s = banking.getiBAN();
-        String pattern;
-        boolean matched;
-
-        pattern = "[A-Z]{2}\\d{20}";
-
-        matched = s.matches(pattern);
-        System.out.printf("%-15s%-15s %b\n", s,pattern,matched);
-
+        try {
+            banking.setiBAN("DE51290501010081994675");
+        }
+        catch (NumberFormatException e) {
+            System.err.println("FEHLER: "+e.getMessage());
+        }
 
         System.out.println("Bitte geben Sie Ihre Geheimzahl ein:\n");
         int pin = scanner.nextInt();

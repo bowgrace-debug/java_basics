@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionMe/Banking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionMe/Banking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionMe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionMe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A43_RegEx_Uhrzeit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A43_RegEx_Uhrzeit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A44_RegEx_PreisInEuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A44_RegEx_PreisInEuro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A45_RegEx_BetragTausender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A45_RegEx_BetragTausender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A46_RegEx_IPAdresse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A46_RegEx_IPAdresse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,8 +197,8 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="A38_RegEx_Binär" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenGenerel.A38_RegEx_Binär" />
+    <configuration name="A43_RegEx_Uhrzeit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenGenerel.A43_RegEx_Uhrzeit" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
@@ -264,10 +265,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.A46_RegEx_IPAdresse" />
         <item itemvalue="Application.A45_RegEx_BetragTausender" />
+        <item itemvalue="Application.A43_RegEx_Uhrzeit" />
+        <item itemvalue="Application.A46_RegEx_IPAdresse" />
         <item itemvalue="Application.A44_RegEx_PreisInEuro" />
-        <item itemvalue="Application.A38_RegEx_Binär" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +322,7 @@
       <workItem from="1725619758562" duration="1214000" />
       <workItem from="1725624781743" duration="2225000" />
       <workItem from="1725864181570" duration="28226000" />
-      <workItem from="1725950238260" duration="365000" />
+      <workItem from="1725950238260" duration="3506000" />
     </task>
     <servers />
   </component>

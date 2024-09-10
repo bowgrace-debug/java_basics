@@ -10,6 +10,8 @@ package aufgaben.a34_Banking.banking.versionMe;
  */
 public class Banking {
 
+    public static final String IBAN_PATTERN = "[A-Z]{2}[0-9]{20}";
+
     // Instanzvariablen
     private String vorname;
     private String nachname;
@@ -24,6 +26,10 @@ public class Banking {
         return vorname;
     }
 
+    public boolean isIban(String iban) {
+        return iban.matches(IBAN_PATTERN);
+    }
+
     // Nachname
     public void setNachname(String nachname) {
         this.nachname = nachname;
@@ -34,7 +40,12 @@ public class Banking {
 
     // IBAN
     public void setiBAN(String iBAN) {
-        this.iBAN = iBAN;
+        if (isIban(iBAN)) {
+            this.iBAN = iBAN;
+        }
+        else {
+            throw new NumberFormatException("ungültige IBAN");
+        }
     }
     public String getiBAN() {
         return iBAN;

@@ -18,9 +18,10 @@ public class A45_RegEx_BetragTausender {
         s = "12.345"; // true
 //        s = "12345.67"; // false
 //        s = "12345,678"; // false
-        String patternEuro = "[0-9]{1,3}(.[0-9]{3})*";
-        String patternCent = "(,[0-9]{2})?";
-        pattern = patternEuro + patternCent;
+        pattern = "[0-9]{1,3}(.[0-9]{3})*(,[0-9]{2})?";
+//        String patternEuro = "[0-9]{1,3}(.[0-9]{3})*";
+//        String patternCent = "(,[0-9]{2})?";
+//        pattern = patternEuro + patternCent;
 
         matched = s.matches(pattern);
         System.out.printf("%-5s %-25s %b\n", s,pattern,matched);

@@ -1,5 +1,6 @@
 package aufgaben.aufgabenAlle.aufgaben46_50.a50_horse;
 
+
 /**
  * Horse
  * <p>

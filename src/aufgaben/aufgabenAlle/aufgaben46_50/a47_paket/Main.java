@@ -1,4 +1,4 @@
-package aufgaben.aufgabenAlle.aufgaben46_50.a47_paket;
+package aufgaben.aufgabenAlle.aufgaben46_51.a47_paket;
 
 /**
  * Main

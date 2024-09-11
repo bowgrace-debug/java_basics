@@ -5,94 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Halfter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Sattel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/ConstructionMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/GardenMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/Mass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/TecDetails.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a32_Versandkostenberechnung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a32_Versandkostenberechnung/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a32_Versandkostenberechnung/Paket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a32_Versandkostenberechnung/Paket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a32_Versandkostenberechnung/Paket.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a32_Versandkostenberechnung/Paket.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a33_Kraftstoffverbrauch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a33_Kraftstoffverbrauch/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a33_Kraftstoffverbrauch/kraftstoffverbrauch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a33_Kraftstoffverbrauch/kraftstoffverbrauch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionMe/Banking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionMe/Banking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionMe/Banking.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionMe/Banking.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionMe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionMe/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionNew/Bankkonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionNew/Bankkonto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionNew/Bankkonto.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionNew/Bankkonto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a34_Banking/banking/versionNew/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionNew/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a35_AutoVermietung/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a34_AutoVermietung/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a35_AutoVermietung/Diagramm1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a34_AutoVermietung/Diagramm1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a35_AutoVermietung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a34_AutoVermietung/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionMe/Farben.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a35_Farben/versionMe/Farben.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionMe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a35_Farben/versionMe/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionNew/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a35_Farben/versionNew/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionNew/FarbenDiagramm.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a35_Farben/versionNew/FarbenDiagramm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a36_Farben/versionNew/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a35_Farben/versionNew/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a37_Employee/versionMe/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a36_Employee/versionMe/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a37_Employee/versionMe/Employee.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a36_Employee/versionMe/Employee.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a37_Employee/versionMe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a36_Employee/versionMe/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a37_Employee/versionNew/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a36_Employee/versionNew/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a37_Employee/versionNew/Employee.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a36_Employee/versionNew/Employee.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/a37_Employee/versionNew/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/aufgaben32_36/a36_Employee/versionNew/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A00_DmToEuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A00_DmToEuro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A01_Sekunden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A01_Sekunden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A02_Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A02_Rechteck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A03_Kraftstoffverbrauch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A03_Kraftstoffverbrauch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A04_Speicherbedarf_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A04_Speicherbedarf_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A05_Speicherbedarf_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A05_Speicherbedarf_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A06_OlivenoelTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A06_OlivenoelTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A07_Versandkostenberechnung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A07_Versandkostenberechnung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A08_Provisionsberechnungen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A08_Provisionsberechnungen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A09_Schaltjahr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A09_Schaltjahr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A10_ErmittlungDerAnrede.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A10_ErmittlungDerAnrede.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A11_Zahlenreihen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A11_Zahlenreihen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A12_kompletteEinmaleins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A12_kompletteEinmaleins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A13_Rueckwaerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A13_Rueckwaerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A14_UmlauteZaehlen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A14_UmlauteZaehlen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A15_Zwischenraueme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A15_Zwischenraueme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A16_JedenZweiten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A16_JedenZweiten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A17_TuerenVonDurin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A17_TuerenVonDurin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A18_WortPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A18_WortPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A19_SatzPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A19_SatzPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A20_Zahlensysteme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A20_Zahlensysteme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A21_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A21_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A22_Umgedreht.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A22_Umgedreht.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A23_Prozente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A23_Prozente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A24_Balkendiagramm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A24_Balkendiagramm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A25_Klassenspiegel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A25_Klassenspiegel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A26_Sortieren.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A26_Sortieren.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A27_Tabellenkalkulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A27_Tabellenkalkulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A28_Temperaturumrechnung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A28_Temperaturumrechnung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A29_Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A29_Rechteck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A30_Methoden2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A30_Methoden2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A31_KlassenspiegelProzedural.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A31_KlassenspiegelProzedural.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A38_RegEx_Binär.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A37_RegEx_Binär.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A39_RegEx_Hex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A38_RegEx_Hex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A40_RegEx_Dateiname_txt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A39_RegEx_Dateiname_txt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A41_RegEx_EInGroßUndEN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A40_RegEx_EInGroßUndEN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A42_RegEx_TelefonnummerMitVorwahl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A41_RegEx_TelefonnummerMitVorwahl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A43_RegEx_Uhrzeit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A42_RegEx_Uhrzeit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A44_RegEx_PreisInEuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A43_RegEx_PreisInEuro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A45_RegEx_BetragTausender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A44_RegEx_BetragTausender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenGenerel/A46_RegEx_IPAdresse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben0_45/A45_RegEx_IPAdresse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/AE01_learn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/AE02_GeradeZiffern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/AE03_DNA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/AE04_Index_A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/AE05_Einwohnerzahlen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/AE06_LaengstesWort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenNico/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geometrie/rechteck_farbe/Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geometrie/rechteck_farbe/Rechteck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/paket/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a47_paket/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/paket/Paket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a47_paket/Paket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a48_preis/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preis/Preis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a48_preis/Preis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/privatkunde/KundenAdresse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenAdresse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/privatkunde/KundenInformationen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenInformationen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/privatkunde/KundenKontoInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenKontoInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/privatkunde/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/privatkunde/PrivatKunde.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/PrivatKunde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionMe/Banking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionMe/Banking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionMe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionMe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionNew/Bankkonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionNew/Bankkonto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionNew/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionNew/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a47_paket/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a47_paket/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a47_paket/Paket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a47_paket/Paket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a48_preis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a48_preis/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a48_preis/Preis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a48_preis/Preis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenAdresse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenAdresse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenInformationen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenInformationen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenKontoInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenKontoInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Halfter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Halfter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/horse.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/horse.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,6 +152,7 @@
     "Application.aufgaben.a37_Employee.versionNew.Main.executor": "Run",
     "Application.aufgaben.aufgabenAlle.aufgaben46_49.a49_privatkunde.Main.executor": "Run",
     "Application.aufgaben.aufgabenAlle.aufgaben46_50.a50_horse.Main.executor": "Run",
+    "Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.Main.executor": "Run",
     "Application.aufgaben.aufgaben_wiederholungen.kontakte.Main.executor": "Run",
     "Application.aufgaben.banking.Main.executor": "Run",
     "Application.balkendiagramm.executor": "Run",
@@ -283,20 +218,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.aufgaben.aufgabenAlle.aufgaben46_50.a50_horse.Main">
-    <configuration name="A45_RegEx_BetragTausender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenGenerel.A45_RegEx_BetragTausender" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.aufgabenAlle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben0_45.Main" />
       <module name="java_basic" />
@@ -349,13 +271,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.Main" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben46_50.a50_horse.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben46_50.a49_privatkunde.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben0_45.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.A45_RegEx_BetragTausender" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +344,7 @@
       <workItem from="1725619758562" duration="1214000" />
       <workItem from="1725624781743" duration="2225000" />
       <workItem from="1725864181570" duration="28226000" />
-      <workItem from="1725950238260" duration="34322000" />
+      <workItem from="1725950238260" duration="40985000" />
     </task>
     <servers />
   </component>

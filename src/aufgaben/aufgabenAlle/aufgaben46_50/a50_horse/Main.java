@@ -1,7 +1,5 @@
 package aufgaben.aufgabenAlle.aufgaben46_50.a50_horse;
 
-import org.w3c.dom.ls.LSOutput;
-
 /**
  * Main
  * <p>

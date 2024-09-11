@@ -1,4 +1,4 @@
-package aufgaben.aufgabenAlle.aufgaben46_50.a48_preis;
+package aufgaben.aufgabenAlle.aufgaben46_51.a48_preis;
 
 /**
  * Main

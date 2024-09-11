@@ -1,4 +1,4 @@
-package aufgaben.aufgabenAlle.aufgaben46_50.a46_banking.versionNew;
+package aufgaben.aufgabenAlle.aufgaben46_51.a46_banking.versionNew;
 
 /**
  * Bankkonto (Model,)

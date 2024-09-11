@@ -1,4 +1,4 @@
-package aufgaben.aufgabenAlle.aufgaben46_50.a49_privatkunde;
+package aufgaben.aufgabenAlle.aufgaben46_51.a49_privatkunde;
 
 /**
  * Main

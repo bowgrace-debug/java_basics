@@ -1,4 +1,4 @@
-package aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen;
+package aufgaben.aufgabenAlle.aufgaben50_100.a51_GartenmaschinenAlt;
 
 /**
  * Main

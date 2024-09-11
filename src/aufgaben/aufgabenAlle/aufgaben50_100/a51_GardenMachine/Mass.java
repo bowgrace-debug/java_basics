@@ -1,4 +1,4 @@
-package aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen;
+package aufgaben.aufgabenAlle.aufgaben50_100.a51_GardenMachine;
 
 /**
  * Mass
@@ -41,6 +41,6 @@ public class Mass {
     }
 
     public String outputMass(){
-        return String.format("\nMass:\nHeight: %.1f\nWidth: %.1f\nLength: %.1f\n", getHeight(), getWidth(), getLength());
+        return String.format("\nHeight: %.1f\nWidth: %.1f\nLength: %.1f\n", getHeight(), getWidth(), getLength());
     }
 }

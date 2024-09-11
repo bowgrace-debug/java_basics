@@ -5,28 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/ConstructionMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/GardenMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/Mass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/TecDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GardenMachine/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GardenMachine/Mass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GardenMachine/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GardenMachine/MowingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GardenMachine/NoiseLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GardenMachine/PowerGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionMe/Banking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionMe/Banking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionMe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionMe/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionNew/Bankkonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionNew/Bankkonto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionNew/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a46_banking/versionNew/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a47_paket/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a47_paket/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a47_paket/Paket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a47_paket/Paket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a48_preis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a48_preis/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a48_preis/Preis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a48_preis/Preis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenAdresse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenAdresse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenInformationen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenInformationen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenKontoInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/KundenKontoInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a49_privatkunde/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Halfter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Halfter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/horse.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben46_50/a50_horse/horse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/ConstructionMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/ConstructionMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/GardenMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/GardenMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/Mass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/Mass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/TecDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/TecDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_Gartenmaschinen/gartenmaschinen.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/gartenmaschinen.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +143,7 @@
     "Application.aufgaben.a37_Employee.versionNew.Main.executor": "Run",
     "Application.aufgaben.aufgabenAlle.aufgaben46_49.a49_privatkunde.Main.executor": "Run",
     "Application.aufgaben.aufgabenAlle.aufgaben46_50.a50_horse.Main.executor": "Run",
+    "Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_GardenMachine.Main.executor": "Run",
     "Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.Main.executor": "Run",
     "Application.aufgaben.aufgaben_wiederholungen.kontakte.Main.executor": "Run",
     "Application.aufgaben.banking.Main.executor": "Run",
@@ -207,31 +199,18 @@
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben\aufgabenAlle\aufgaben50_100\a51_GardenMachine" />
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben\a37_Employee\versionMe" />
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben\a34_Banking\banking\versionNew" />
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben\a34_Banking\banking\versionMe" />
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\geometrie\rechteck" />
-      <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\zeichenketten" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="geometrie.rechteck_farbe" />
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben0_45.Main" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.aufgabenAlle.aufgaben0_45.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_GardenMachine.Main">
     <configuration name="aufgaben.aufgabenAlle.aufgaben0_45.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben0_45.Main" />
       <module name="java_basic" />
@@ -271,12 +250,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.Main" />
+    <configuration name="aufgaben.aufgabenAlle.aufgaben50_100.a51_GardenMachine.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben50_100.a51_GardenMachine.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.*" />
+          <option name="PATTERN" value="aufgaben.aufgabenAlle.aufgaben50_100.a51_GardenMachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aufgaben.aufgabenAlle.aufgaben50_100.a51_GartenmaschinenAlt.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben50_100.a51_GartenmaschinenAlt.Main" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.aufgabenAlle.aufgaben50_100.a51_GartenmaschinenAlt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_Gartenmaschinen.Main" />
+        <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_GardenMachine.Main" />
+        <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_GartenmaschinenAlt.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben46_50.a50_horse.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben46_50.a49_privatkunde.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben0_45.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +336,7 @@
       <workItem from="1725619758562" duration="1214000" />
       <workItem from="1725624781743" duration="2225000" />
       <workItem from="1725864181570" duration="28226000" />
-      <workItem from="1725950238260" duration="40985000" />
+      <workItem from="1725950238260" duration="48926000" />
     </task>
     <servers />
   </component>

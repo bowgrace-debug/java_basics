@@ -1,8 +1,6 @@
 package geometrie.rechteck_farbe;
 
 
-import aufgaben.a36_Farben.versionNew.Color;
-
 /**
  * Rechteck
  * <p>

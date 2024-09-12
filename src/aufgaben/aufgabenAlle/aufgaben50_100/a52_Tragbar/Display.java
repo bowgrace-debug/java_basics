@@ -14,9 +14,9 @@ public class Display {
     private String resolution;
 
     // Constructor
-    public Display(double size, String resolution){
-        setSize(size);
-        setResolution(resolution);
+    public Display(double size, String resolution) {
+        this.size = size;
+        this.resolution = resolution;
     }
 
     // Getter & Setter
@@ -36,6 +36,6 @@ public class Display {
 
     // Output
     public String outputDisplay(){
-        return String.format("\nDisplay:\nSize: %.1f cm\nResolution: %s px\n", getSize(), getResolution());
+        return String.format("\nSize: %.1f cm\nResolution: %s px\n", getSize(), getResolution());
     }
 }

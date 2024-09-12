@@ -14,9 +14,9 @@ public class Processor {
     private String clockSpeed;
 
     // Constructor
-    public Processor(String name, String clockSpeed){
-        setName(name);
-        setClockSpeed(clockSpeed);
+    public Processor(String name, String clockSpeed) {
+        this.name = name;
+        this.clockSpeed = clockSpeed;
     }
 
     // Getter & Setter
@@ -36,6 +36,6 @@ public class Processor {
 
     // Output
     public String outputProcessor(){
-        return String.format("\nProcessor:\nName: %s\nClock speed: %s GHz\n", getName(), getClockSpeed());
+        return String.format("\nName: %s\nClock speed: %s GHz\n", getName(), getClockSpeed());
     }
 }

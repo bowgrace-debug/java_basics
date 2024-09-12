@@ -10,21 +10,21 @@ package aufgaben.aufgabenAlle.aufgaben50_100.a52_Tragbar;
 public class Akku {
 
     // local variable
-    private double akkuRunTime;
+    private double akkuRuntime;
     private int capacity;
 
     // Constructor
-    public Akku(double akkuRunTime, int capacity){
-        setAkkuRunTime(akkuRunTime);
-        setCapacity(capacity);
+    public Akku(double akkuRuntime, int capacity) {
+        this.akkuRuntime = akkuRuntime;
+        this.capacity = capacity;
     }
 
     // Getter & Setter
-    public double getAkkuRunTime() {
-        return akkuRunTime;
+    public double getAkkuRuntime() {
+        return akkuRuntime;
     }
-    public void setAkkuRunTime(double akkuRunTime) {
-        this.akkuRunTime = akkuRunTime;
+    public void setAkkuRuntime(double akkuRuntime) {
+        this.akkuRuntime = akkuRuntime;
     }
 
     public int getCapacity() {
@@ -36,6 +36,6 @@ public class Akku {
 
     // Output
     public String outputAkku(){
-        return String.format("\nAkku:\nAkku runtime %.1f hours\nCapacity: %d Wh\n", getAkkuRunTime(), getCapacity());
+        return String.format("\nAkku runtime: %.1f hours\nCapacity: %d Wh\n", getAkkuRuntime(), getCapacity());
     }
 }

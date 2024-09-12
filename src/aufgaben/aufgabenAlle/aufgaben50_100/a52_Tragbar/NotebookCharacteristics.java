@@ -1,13 +1,13 @@
 package aufgaben.aufgabenAlle.aufgaben50_100.a52_Tragbar;
 
 /**
- * NoteBook
+ * NotebookCharacteristics
  * <p>
  *
  * @author Maximilian Stolle
  * @version 12.09.2024
  */
-public class NoteBook {
+public class NotebookCharacteristics {
 
     // local variable
     private double weight;
@@ -15,10 +15,10 @@ public class NoteBook {
     private int ram;
 
     // Constructor
-    public NoteBook(double weight, String articleNumber, int ram){
-        setWeight(weight);
-        setArticleNumber(articleNumber);
-        setRam(ram);
+    public NotebookCharacteristics(double weight, String articleNumber, int ram) {
+        this.weight = weight;
+        this.articleNumber = articleNumber;
+        this.ram = ram;
     }
 
     // Getter & Setter
@@ -44,7 +44,7 @@ public class NoteBook {
     }
 
     // Output
-    public String outputNoteBook(){
-        return String.format("\nNoteBook:\nWeight: %.1f kg\nArticle number: %s\nRAM: %d GB\n", getWeight(), getArticleNumber(), getRam());
+    public String outputNotebookCharacteristics(){
+        return String.format("\nWeight: %.1f kg\nArticle number: %s\nRAM: %d GB\n", getWeight(),getArticleNumber(), getRam());
     }
 }

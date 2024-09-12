@@ -14,9 +14,9 @@ public class HardDrive {
     private int capacity;
 
     // Constructor
-    public HardDrive(String typ, int capacity){
-        setTyp(typ);
-        setCapacity(capacity);
+    public HardDrive(String typ, int capacity) {
+        this.typ = typ;
+        this.capacity = capacity;
     }
 
     // Getter & Setter
@@ -36,6 +36,6 @@ public class HardDrive {
 
     // Output
     public String outputHardDrive(){
-        return String.format("\nHarddrive:\nType: %s\nCapacity: %d GB\n", getTyp(), getCapacity());
+        return String.format("\nTyp: %s\nCapacity: %d GB\n", getTyp(), getCapacity());
     }
 }

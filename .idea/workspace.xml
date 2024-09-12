@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/eventCards/Eventcard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/eventCards/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/ConstructionMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/GardenMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/Mass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/TecDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a51_GartenmaschinenAlt/gartenmaschinen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/eventCards/Eventcard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/eventCards/Eventcard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/eventCards/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgaben_wiederholungen/eventCards/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,13 +200,13 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="aufgaben.aufgabenAlle.aufgaben0_45.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben0_45.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgaben_wiederholungen.eventCards.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.aufgabenAlle.aufgaben0_45.*" />
+          <option name="PATTERN" value="aufgaben.aufgaben_wiederholungen.eventCards.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_GardenMachine.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a51_GartenmaschinenAlt.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben46_50.a50_horse.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben46_50.a49_privatkunde.Main" />
-        <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben0_45.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +326,7 @@
       <workItem from="1725619758562" duration="1214000" />
       <workItem from="1725624781743" duration="2225000" />
       <workItem from="1725864181570" duration="28226000" />
-      <workItem from="1725950238260" duration="58747000" />
+      <workItem from="1725950238260" duration="63294000" />
     </task>
     <servers />
   </component>

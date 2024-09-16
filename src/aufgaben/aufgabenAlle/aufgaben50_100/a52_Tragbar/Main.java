@@ -21,9 +21,9 @@ public class Main {
 
         Notebook notebook = new Notebook(hardware, computerComponents);
 
-        System.out.println("=====================================");
+        System.out.print(notebook.outputline());
         System.out.println("\nNotebook:");
         System.out.print(notebook.outputNotebook());
-        System.out.println("=====================================");
+        System.out.print(notebook.outputline());
     }
 }

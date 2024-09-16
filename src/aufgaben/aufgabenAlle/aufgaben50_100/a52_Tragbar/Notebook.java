@@ -38,4 +38,9 @@ public class Notebook {
     public String outputNotebook(){
         return hardware.outputHardware() + computerComponents.outputComputerComponents();
     }
+
+    // Outputline
+    public String outputline(){
+        return "\n=====================================\n";
+    }
 }

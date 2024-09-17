@@ -32,9 +32,16 @@ public class PrivatCustomer extends Customer {
         this.lastname = lastname;
     }
 
+/*
     @Override
     public String toString(){
         return String.format("\nFirstname: %s\nLastname: %s\n", getFirstname(), getLastname());
+    }
+*/
+
+    public String asString(){
+        String output = "";
+        return output += "\nFirstname: " + firstname + "\nLastname: " + lastname + "\nCustomer number: " + getCustomerNumber() + "\n" + getAddress() + getBankAccount() + "\n";
     }
 
 }

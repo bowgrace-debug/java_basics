@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/BusinessCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/PrivatCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geometrie/rechteck_vererbung/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geometrie/rechteck_vererbung/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geometrie/rechteck_vererbung/Quadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geometrie/rechteck_vererbung/Raute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geometrie/rechteck_vererbung/Rechteck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geometrie/rechteck_vererbung/Viereck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a52_Tragbar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a52_Tragbar/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a52_Tragbar/Notebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a52_Tragbar/Notebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a52_Tragbar/Tragbar.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a52_Tragbar/Tragbar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Customer/Customer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/BusinessCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/BusinessCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/PrivatCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a53_Kunde/PrivatCustomer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -357,7 +347,7 @@
       <workItem from="1725864181570" duration="28226000" />
       <workItem from="1725950238260" duration="93974000" />
       <workItem from="1726225142417" duration="4410000" />
-      <workItem from="1726468433803" duration="14777000" />
+      <workItem from="1726468433803" duration="19487000" />
     </task>
     <servers />
   </component>

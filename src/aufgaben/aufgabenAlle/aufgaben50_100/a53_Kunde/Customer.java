@@ -19,8 +19,6 @@ public abstract class Customer {
         setBankAccount(bankAccount);
     }
 
-    public Customer(){}
-
     public String getCustomerNumber() {
         return customerNumber;
     }

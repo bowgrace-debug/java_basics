@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a55_Article/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a55_Article/Cup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a55_Article/Doormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a55_Article/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a55_Article/Shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a55_Article/Watch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a54_Printed/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a54_Printed/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a54_Printed/Publisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a54_Printed/Publisher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,8 +142,9 @@
     "Application.aufgaben.aufgabenAlle.aufgaben50_100.a52_Tragbar.Main.executor": "Run",
     "Application.aufgaben.aufgabenAlle.aufgaben50_100.a52_Tragbar_new.Main.executor": "Run",
     "Application.aufgaben.aufgabenAlle.aufgaben50_100.a53_Kunde.Main.executor": "Debug",
-    "Application.aufgaben.aufgabenAlle.aufgaben50_100.a54_Printed.Main.executor": "Run",
+    "Application.aufgaben.aufgabenAlle.aufgaben50_100.a54_Printed.Main.executor": "Debug",
     "Application.aufgaben.aufgabenAlle.aufgaben50_100.a54_Printed_New.Main.executor": "Run",
+    "Application.aufgaben.aufgabenAlle.aufgaben50_100.a55_Article.Main.executor": "Run",
     "Application.aufgaben.aufgaben_wiederholungen.kontakte.Main.executor": "Run",
     "Application.aufgaben.banking.Main.executor": "Run",
     "Application.balkendiagramm.executor": "Run",
@@ -205,7 +210,7 @@
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.aufgaben.aufgabenAlle.aufgaben50_100.a54_Printed.Main">
+  <component name="RunManager" selected="Application.aufgaben.aufgabenAlle.aufgaben50_100.a55_Article.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgaben.aufgaben_wiederholungen.eventCards.Main" />
       <module name="java_basic" />
@@ -284,12 +289,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="aufgaben.aufgabenAlle.aufgaben50_100.a55_Article.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben50_100.a55_Article.Main" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgaben.aufgabenAlle.aufgaben50_100.a55_Article.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a55_Article.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a54_Printed.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a54_Printed.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a53_Kunde.Main" />
-        <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a52_Tragbar.Main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a52_Tragbar.Main" />
       </list>
     </recent_temporary>
@@ -346,7 +364,7 @@
       <workItem from="1725864181570" duration="28226000" />
       <workItem from="1725950238260" duration="93974000" />
       <workItem from="1726225142417" duration="4410000" />
-      <workItem from="1726468433803" duration="45800000" />
+      <workItem from="1726468433803" duration="50858000" />
     </task>
     <servers />
   </component>

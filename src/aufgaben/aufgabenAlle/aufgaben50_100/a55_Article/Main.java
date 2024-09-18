@@ -21,6 +21,7 @@ public class Main {
 
         double totalPrice = 0.0;
         String name = "Total price: ";
+
         for (Article piece : article) {
             System.out.println(piece.asString());
             totalPrice += piece.getPrice();

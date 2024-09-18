@@ -39,6 +39,11 @@ public class Publisher {
         return String.format("\nPublisher: %s", getPublisherName());
     }
     public String asString(){
-        return String.format("\nPublisher: %s\n%s", getPublisherName(), getPublisherAddress());
+        if (publisherAddress != null) {
+            return String.format("\nPublisher: %s\n%s", getPublisherName(), getPublisherAddress());
+        }
+        else {
+            return asStringName();
+        }
     }
 }

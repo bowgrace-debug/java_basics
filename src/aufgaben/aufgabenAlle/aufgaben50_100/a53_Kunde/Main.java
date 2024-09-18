@@ -23,5 +23,6 @@ public class Main {
         BusinessCustomer businessCustomer = new BusinessCustomer("KCHJ3456",address,bankAccount,"KingsCompany","HJ432671");
 
         System.out.println(businessCustomer.asString());
+
     }
 }

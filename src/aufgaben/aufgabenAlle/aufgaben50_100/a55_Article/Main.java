@@ -19,16 +19,6 @@ public class Main {
         article[4] = new Shirt("BaZnGa T-Shirt", "M", 20.95);
         article[5] = new Doormat("Fußmatte 'It's bigger on the inside'", "Kokosfasern", 24.95);
 
-        double totalPrice = 0.0;
-        String name = "Total price: ";
-
-        for (Article piece : article) {
-            System.out.println(piece.asString());
-            totalPrice += piece.getPrice();
-        }
-
-        System.out.println("===============================================================");
-        System.out.println(String.format("%-50s %,.2f €",name, totalPrice));
-        System.out.println("_______________________________________________________________");
+        Output.output(article);
     }
 }

@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ce858d-9083-43a1-9f35-43d89ded198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a55_Article/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mariadb_jdbc_java_client.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_nop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datenbanksysteme/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datenbanksysteme/PerparedStatemants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datenbanksysteme/SQLInjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datenbanksysteme/dao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datenbanksysteme/dao/MariaDbMovieDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datenbanksysteme/dao/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datenbanksysteme/dao/MovieDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datenbanksysteme/or_mapper/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datenbanksysteme/or_mapper/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_basic.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a55_Article/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aufgaben/aufgabenAlle/aufgaben50_100/a55_Article/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,9 +117,11 @@
     "Application.MethodenUeberladen.executor": "Run",
     "Application.MinMax.executor": "Run",
     "Application.Monitor.executor": "Run",
+    "Application.PerparedStatemants.executor": "Run",
     "Application.Provision.executor": "Run",
     "Application.RegEx.executor": "Run",
     "Application.Rekursion.executor": "Run",
+    "Application.SQLInjection.executor": "Run",
     "Application.Schleifen.executor": "Run",
     "Application.SchleifenBeispielKennwort.executor": "Run",
     "Application.Schleifenarten.executor": "Run",
@@ -149,6 +165,7 @@
     "Application.geometrie.rechteck.Main.executor": "Run",
     "Application.jedenzweiten.executor": "Run",
     "Application.kraftsoffverbrauch.executor": "Run",
+    "Application.main.executor": "Run",
     "Application.monitor.executor": "Run",
     "Application.olivenoeltank.executor": "Run",
     "Application.privatkunde.Main.executor": "Run",
@@ -165,6 +182,10 @@
     "Application.versandkostenberechnung.executor": "Run",
     "Application.zahlenreihen.executor": "Run",
     "Application.zwischenraeume.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -174,17 +195,25 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/geometrie/rechteck_farbe",
+    "last_opened_file_path": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/4 gewinnt/connect-four",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/java_projects/java_basic/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "show.migrate.to.gradle.popup": "false",
     "two.files.diff.last.used.file": "C:/Max/Fachinformatiker für Anwendungsentwicklung/java/java_basics/src/aufgaben/A07_Versandkostenberechnung.java",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -202,17 +231,44 @@
       <recent name="C:\Max\Fachinformatiker für Anwendungsentwicklung\java\java_basics\src\aufgaben\a34_Banking\banking\versionMe" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="datenbanksysteme" />
       <recent name="geometrie.rechteck_farbe" />
       <recent name="aufgaben" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.aufgaben.aufgabenAlle.aufgaben50_100.a55_Article.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgaben_wiederholungen.eventCards.Main" />
+      <option name="MAIN_CLASS_NAME" value="datenbanksysteme.or_mapper.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aufgaben.aufgaben_wiederholungen.eventCards.*" />
+          <option name="PATTERN" value="datenbanksysteme.or_mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerparedStatemants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datenbanksysteme.PerparedStatemants" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datenbanksysteme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLInjection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datenbanksysteme.SQLInjection" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datenbanksysteme.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,45 +282,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aufgaben.aufgabenAlle.aufgaben50_100.a52_Tragbar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="aufgaben.aufgabenAlle.aufgaben50_100.a52_Tragbar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben50_100.a52_Tragbar.Main" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.aufgabenAlle.aufgaben50_100.a52_Tragbar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="aufgaben.aufgabenAlle.aufgaben50_100.a53_Kunde.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben50_100.a53_Kunde.Main" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.aufgabenAlle.aufgaben50_100.a53_Kunde.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="aufgaben.aufgabenAlle.aufgaben50_100.a54_Printed.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aufgaben.aufgabenAlle.aufgaben50_100.a54_Printed.Main" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aufgaben.aufgabenAlle.aufgaben50_100.a54_Printed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,13 +315,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datenbanksysteme.main" />
+      <module name="java_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datenbanksysteme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PerparedStatemants" />
+        <item itemvalue="Application.SQLInjection" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a55_Article.Main" />
-        <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a54_Printed.Main" />
-        <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a54_Printed.Main" />
-        <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a53_Kunde.Main" />
-        <item itemvalue="Application.aufgaben.aufgabenAlle.aufgaben50_100.a52_Tragbar.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +390,10 @@
       <workItem from="1725864181570" duration="28226000" />
       <workItem from="1725950238260" duration="93974000" />
       <workItem from="1726225142417" duration="4410000" />
-      <workItem from="1726468433803" duration="52103000" />
+      <workItem from="1726468433803" duration="55958000" />
+      <workItem from="1726731203570" duration="3155000" />
+      <workItem from="1728374857510" duration="20000" />
+      <workItem from="1731577203361" duration="16733000" />
     </task>
     <servers />
   </component>

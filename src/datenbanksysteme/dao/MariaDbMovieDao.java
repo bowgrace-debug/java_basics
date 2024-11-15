@@ -18,6 +18,12 @@ import java.util.List;
  * @version 15.11.2024
  */
 public class MariaDbMovieDao implements MovieDao{
+
+    private Connection connection;
+
+    public MariaDbMovieDao() {
+        connection = DBConnection.getInstance();
+    }
     /*
         Lese alle Filme
         @return Liste mit allen Filmen sortiert nach Titel
